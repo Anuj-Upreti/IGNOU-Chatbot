@@ -170,4 +170,13 @@ window.addEventListener('message', (e) => {
   }
 });
 
+const chatContainer = document.getElementById('chat-container');
+const minimizeBtn = document.getElementById('minimize-btn');
+
+minimizeBtn.addEventListener('click', () => {
+  chatContainer.classList.toggle('minimized');
+  minimizeBtn.innerHTML = chatContainer.classList.contains('minimized') ? '&#x2b;' : '&#x2012;';
+});
+
+
 export { handleUserInput };

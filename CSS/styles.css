@@ -258,3 +258,32 @@ li {
     padding: 8px 12px;
   }
 }
+
+
+#minimize-btn {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #fff;
+  margin-left: auto;
+}
+
+#chat-container.minimized #chat-box,
+#chat-container.minimized #user-input-container {
+  display: none;
+}
+
+#chat-container.minimized {
+  height: auto;
+  width: 200px;
+  bottom: 10px;
+  right: 10px;
+  border-radius: 10px;
+  background-color: #2e2e2e;
+}
+
+#chat-container.minimized #chat-header {
+  justify-content: center;
+  padding: 10px;
+}
