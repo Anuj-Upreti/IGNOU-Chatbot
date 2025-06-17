@@ -1,0 +1,2900 @@
+[
+  {
+    "course_id": 1,
+    "primary name": "Master of Commerce",
+    "name_1": "MCOM",
+    "name_2": "Commerce Master",
+    "name_3": "M.Com",
+    "name_4": "Master's in Commerce",
+    "name_5": "Masters in Commerce"
+  },
+  {
+    "course_id": 2,
+    "primary name": "Master of Business Administration",
+    "name_1": "MBA",
+    "name_2": "Business Administration",
+    "name_3": "Master's in Business",
+    "name_4": "MBA Degree",
+    "name_5": "Business Admin"
+  },
+  {
+    "course_id": 3,
+    "primary name": "Master of Business Administration Human Resource Management",
+    "name_1": "MBAHM",
+    "name_2": "Human Resource MBA",
+    "name_3": "MBA HRM",
+    "name_4": "HR Management MBA",
+    "name_5": "MBA HR Management"
+  },
+  {
+    "course_id": 4,
+    "primary name": "Master of Business Administration Financial Management",
+    "name_1": "MBAFM",
+    "name_2": "Financial MBA",
+    "name_3": "MBA Finance",
+    "name_4": "Finance Management MBA",
+    "name_5": "Master Financial Management"
+  },
+  {
+    "course_id": 5,
+    "primary name": "Master of Business Administration Operations Management",
+    "name_1": "MBAOM",
+    "name_2": "Operations MBA",
+    "name_3": "MBA Operations",
+    "name_4": "Operations Management Master",
+    "name_5": "Master Operations Management"
+  },
+  {
+    "course_id": 6,
+    "primary name": "Master of Business Administration Marketing Management",
+    "name_1": "MBAMM",
+    "name_2": "Marketing MBA",
+    "name_3": "MBA Marketing",
+    "name_4": "Marketing Management Master",
+    "name_5": "Master Marketing Management"
+  },
+  {
+    "course_id": 7,
+    "primary name": "Master of Business Administration Banking and Finance",
+    "name_1": "MBF",
+    "name_2": "Banking & Finance MBA",
+    "name_3": "MBA Banking",
+    "name_4": "Finance and Banking Master",
+    "name_5": "MBA Banking"
+  },
+  {
+    "course_id": 8,
+    "primary name": "Master of Arts English",
+    "name_1": "MEG",
+    "name_2": "English Master",
+    "name_3": "MA English",
+    "name_4": "Master's in English",
+    "name_5": "English Arts Degree"
+  },
+  {
+    "course_id": 9,
+    "primary name": "Master of Arts Hindi",
+    "name_1": "MHD",
+    "name_2": "Hinid MA",
+    "name_3": "MA Hindi",
+    "name_4": "Master's in Hindi",
+    "name_5": "Master of Arts in Hindi"
+  },
+  {
+    "course_id": 10,
+    "primary name": "Master of Arts Political Science",
+    "name_1": "MPS",
+    "name_2": "MA Political Science",
+    "name_3": "MA Political Science",
+    "name_4": "Master's in Political Science",
+    "name_5": "Masters in Political Science Arts Degree"
+  },
+  {
+    "course_id": 11,
+    "primary name": "Master of Arts History",
+    "name_1": "MAHI",
+    "name_2": "History Master",
+    "name_3": "MA History",
+    "name_4": "Master's in History",
+    "name_5": "History Arts Degree"
+  },
+  {
+    "course_id": 12,
+    "primary name": "Master of Arts Sociology",
+    "name_1": "MSO",
+    "name_2": "Sociology Master",
+    "name_3": "MA Sociology",
+    "name_4": "Master's in Sociology",
+    "name_5": "Sociology Arts Degree"
+  },
+  {
+    "course_id": 13,
+    "primary name": "Master of Arts Psychology",
+    "name_1": "MAPC",
+    "name_2": "Psychology Master",
+    "name_3": "MA Psychology",
+    "name_4": "Master's in Psychology",
+    "name_5": "Psychology Arts Degree"
+  },
+  {
+    "course_id": 14,
+    "primary name": "Master of Arts Economics",
+    "name_1": "MAEC",
+    "name_2": "Economics Master",
+    "name_3": "MA Economics",
+    "name_4": "Master's in Economics",
+    "name_5": "Economics Arts Degree"
+  },
+  {
+    "course_id": 15,
+    "primary name": "Master of Arts Public Administration",
+    "name_1": "MPA",
+    "name_2": "Public Administration Master",
+    "name_3": "MA Public Administration",
+    "name_4": "Master's in Public Administration",
+    "name_5": "Public Admin Arts Degree"
+  },
+  {
+    "course_id": 16,
+    "primary name": "Master of Library and Information Sciences",
+    "name_1": "MLIS",
+    "name_2": "Library Science Master",
+    "name_3": "MLISc",
+    "name_4": "Master of Library",
+    "name_5": "Library and Info Science"
+  },
+  {
+    "course_id": 17,
+    "primary name": "Master of Arts Anthropology",
+    "name_1": "MAAN",
+    "name_2": "Anthropology Master",
+    "name_3": "MA Anthropology",
+    "name_4": "Master's in Anthropology",
+    "name_5": "Anthropology Arts Degree"
+  },
+  {
+    "course_id": 18,
+    "primary name": "Master of Arts Gandhi and Peace Studies",
+    "name_1": "MGPS",
+    "name_2": "Gandhi Studies Master",
+    "name_3": "MA Gandhi Peace",
+    "name_4": "Master's in Gandhi and Peace Studies",
+    "name_5": "Peace Studies Master"
+  },
+  {
+    "course_id": 19,
+    "primary name": "Master of Computer Applications",
+    "name_1": "MCA_NEW",
+    "name_2": "Computer Applications Master",
+    "name_3": "MCA New",
+    "name_4": "Master's in Computer Applications",
+    "name_5": "MCA"
+  },
+  {
+    "course_id": 20,
+    "primary name": "Master of Arts Rural Development",
+    "name_1": "MARD",
+    "name_2": "Rural Development Master",
+    "name_3": "MA Rural Development",
+    "name_4": "Master's in Rural Development",
+    "name_5": "Rural Dev Arts Degree"
+  },
+  {
+    "course_id": 21,
+    "primary name": "Master of Science Food Nutrition",
+    "name_1": "MSCDFSMM",
+    "name_2": "Food and Nutrition Master",
+    "name_3": "MSc Food Nutrition",
+    "name_4": "Master's in Food Nutrition",
+    "name_5": "Nutrition Science Master"
+  },
+  {
+    "course_id": 22,
+    "primary name": "Master of Science Counselling and Family Therapy",
+    "name_1": "MSCCFTM",
+    "name_2": "Counselling Master",
+    "name_3": "MSc Counselling Therapy",
+    "name_4": "Master's in Counselling and Family Therapy",
+    "name_5": "Family Therapy Science Master"
+  },
+  {
+    "course_id": 23,
+    "primary name": "M.Sc Home Science-Community Development and Extension Management",
+    "name_1": "MSCHSC",
+    "name_2": "Home Science Master",
+    "name_3": "MSc Home Science",
+    "name_4": "Master's in Home Science",
+    "name_5": "Community Dev Home Science"
+  },
+  {
+    "course_id": 24,
+    "primary name": "Master of Social Work",
+    "name_1": "MSW",
+    "name_2": "Social Work Master",
+    "name_3": "MSW Degree",
+    "name_4": "Master's in Social Work",
+    "name_5": "Social Work Master's"
+  },
+  {
+    "course_id": 25,
+    "primary name": "Master of Social Work Counselling",
+    "name_1": "MSWC",
+    "name_2": "Social Work Counselling Master",
+    "name_3": "MSW Counselling",
+    "name_4": "Master's in Social Work Counselling",
+    "name_5": "Counselling Social Work Master"
+  },
+  {
+    "course_id": 26,
+    "primary name": "Master of Arts Education",
+    "name_1": "MAEDU",
+    "name_2": "Education Master",
+    "name_3": "MA Education",
+    "name_4": "Master's in Education",
+    "name_5": "Education Arts Degree"
+  },
+  {
+    "course_id": 27,
+    "primary name": "Master of Arts Distance Education",
+    "name_1": "MADE",
+    "name_2": "Distance Education Master",
+    "name_3": "MA Distance Education",
+    "name_4": "Master's in Distance Education",
+    "name_5": "Distance Learning Arts"
+  },
+  {
+    "course_id": 28,
+    "primary name": "Master of Arts Adult Education",
+    "name_1": "MAAE",
+    "name_2": "Adult Education Master",
+    "name_3": "MA Adult Education",
+    "name_4": "Master's in Adult Education",
+    "name_5": "Adult Learning Arts"
+  },
+  {
+    "course_id": 29,
+    "primary name": "Master of Tourism and Travel Management",
+    "name_1": "MTTM",
+    "name_2": "Tourism Master",
+    "name_3": "MTTM Degree",
+    "name_4": "Master's in Tourism and Travel Management",
+    "name_5": "Travel Management Master"
+  },
+  {
+    "course_id": 30,
+    "primary name": "Master of Arts Philosophy",
+    "name_1": "MAPY",
+    "name_2": "Philosophy Master",
+    "name_3": "MA Philosophy",
+    "name_4": "Master's in Philosophy",
+    "name_5": "Philosophy Arts Degree"
+  },
+  {
+    "course_id": 31,
+    "primary name": "Master of Arts Development Studies",
+    "name_1": "MADVS",
+    "name_2": "Development Studies Master",
+    "name_3": "MA Development Studies",
+    "name_4": "Master's in Development Studies",
+    "name_5": "Dev Studies Arts Degree"
+  },
+  {
+    "course_id": 32,
+    "primary name": "Master of Arts Corporate Social Responsibility",
+    "name_1": "MACSR",
+    "name_2": "CSR Master",
+    "name_3": "MA Corporate Social",
+    "name_4": "Master's in Corporate Social Responsibility",
+    "name_5": "Corporate Responsibility Master"
+  },
+  {
+    "course_id": 33,
+    "primary name": "Master of Arts Urban Studies",
+    "name_1": "MAUS",
+    "name_2": "Urban Studies Master",
+    "name_3": "MA Urban Studies",
+    "name_4": "Master's in Urban Studies",
+    "name_5": "Urban Planning Arts"
+  },
+  {
+    "course_id": 34,
+    "primary name": "Master of Arts Population and Family Health Studies",
+    "name_1": "MAPFHS",
+    "name_2": "Population Health Master",
+    "name_3": "MA Pop Health",
+    "name_4": "Master's in Population Health Studies",
+    "name_5": "Family Health Arts Degree"
+  },
+  {
+    "course_id": 35,
+    "primary name": "Master of Arts Women and Gender Studies",
+    "name_1": "MAWGSR",
+    "name_2": "Women Studies Master",
+    "name_3": "MA Gender Studies",
+    "name_4": "Master's in Women & Gender Studies",
+    "name_5": "Gender Studies Master"
+  },
+  {
+    "course_id": 36,
+    "primary name": "Master of Arts Gender and Development Studies",
+    "name_1": "MAGD",
+    "name_2": "Gender Development Master",
+    "name_3": "MA Gender Development",
+    "name_4": "Master's in Gender and Development Studies",
+    "name_5": "Development Gender Studies Master"
+  },
+  {
+    "course_id": 37,
+    "primary name": "Master of Arts Translation Studies",
+    "name_1": "MATS",
+    "name_2": "Translation Master",
+    "name_3": "MA Translation",
+    "name_4": "Master's in Translation Studies",
+    "name_5": "Translation Arts Degree"
+  },
+  {
+    "course_id": 38,
+    "primary name": "Master of Science Mathematics with Application in Computer Science",
+    "name_1": "MSCMACS",
+    "name_2": "Maths Computer Science Master",
+    "name_3": "MSc Maths with CS",
+    "name_4": "Master's in Mathematics & Computer Science",
+    "name_5": "Applied Maths Computer"
+  },
+  {
+    "course_id": 39,
+    "primary name": "Master of Science Applied Statistics",
+    "name_1": "MSCAST",
+    "name_2": "Applied Statistics Master",
+    "name_3": "MSc Applied Stats",
+    "name_4": "Master's in Applied Statistics",
+    "name_5": "Statistics Science Master"
+  },
+  {
+    "course_id": 40,
+    "primary name": "Master of Science Physics",
+    "name_1": "MSCPH",
+    "name_2": "Physics Master",
+    "name_3": "MSc Physics",
+    "name_4": "Master's in Physics",
+    "name_5": "Physics Science Master"
+  },
+  {
+    "course_id": 41,
+    "primary name": "Master of Science Geography",
+    "name_1": "MSCGG",
+    "name_2": "Geography Master",
+    "name_3": "MSc Geography",
+    "name_4": "Master's in Geography",
+    "name_5": "Geography Science Master"
+  },
+  {
+    "course_id": 42,
+    "primary name": "Master of Science Geoinformatics",
+    "name_1": "MSCGI",
+    "name_2": "Geoinformatics Master",
+    "name_3": "MSc Geoinformatics",
+    "name_4": "Master's in Geoinformatics",
+    "name_5": "Geoinfo Science Master"
+  },
+  {
+    "course_id": 43,
+    "primary name": "M.Sc. in Zoology",
+    "name_1": "MSCZOO",
+    "name_2": "Zoology Master",
+    "name_3": "MSc Zoology",
+    "name_4": "Master's in Zoology",
+    "name_5": "Zoology Science Master"
+  },
+  {
+    "course_id": 44,
+    "primary name": "M.Sc Biochemistry",
+    "name_1": "MSCBCHM",
+    "name_2": "Biochemistry Master",
+    "name_3": "MSc Biochemistry",
+    "name_4": "Master's in Biochemistry",
+    "name_5": "Biochemistry Science Master"
+  },
+  {
+    "course_id": 45,
+    "primary name": "M.Sc. Analytical Chemistry",
+    "name_1": "MSCANCHEM",
+    "name_2": "Analytical Chemistry Master",
+    "name_3": "MSc Analytical Chemistry",
+    "name_4": "Master's in Analytical Chemistry",
+    "name_5": "Analytical Chem Science Master"
+  },
+  {
+    "course_id": 46,
+    "primary name": "M.Sc. Chemistry",
+    "name_1": "MSCCHEM",
+    "name_2": "Chemistry Master",
+    "name_3": "MSc Chemistry",
+    "name_4": "Master's in Chemistry",
+    "name_5": "Chemistry Science Master"
+  },
+  {
+    "course_id": 47,
+    "primary name": "Master of Science Renewable Energy and Environment",
+    "name_1": "MSCRWEE",
+    "name_2": "Renewable Energy Master",
+    "name_3": "MSc Renewable Energy",
+    "name_4": "Master's in Renewable Energy & Environment",
+    "name_5": "Environment Energy Science"
+  },
+  {
+    "course_id": 48,
+    "primary name": "M.Sc. Industrial Safety",
+    "name_1": "MSCLIDS",
+    "name_2": "Industrial Safety Master",
+    "name_3": "MSc Industrial Safety",
+    "name_4": "Master's in Industrial Safety",
+    "name_5": "Safety Science Master"
+  },
+  {
+    "course_id": 49,
+    "primary name": "Master of Business Administration Construction Management",
+    "name_1": "MBACN",
+    "name_2": "Construction MBA",
+    "name_3": "MBA Construction",
+    "name_4": "Construction Management Master",
+    "name_5": "Master Construction Management"
+  },
+  {
+    "course_id": 50,
+    "primary name": "Master of Business Administration Logistics & Supply Chain Management",
+    "name_1": "MBALS",
+    "name_2": "Logistics MBA",
+    "name_3": "MBA Logistics",
+    "name_4": "Logistics & Supply Chain Master",
+    "name_5": "Supply Chain Management Master"
+  },
+  {
+    "course_id": 51,
+    "primary name": "Master of Arts Journalism and Mass Communication",
+    "name_1": "MAJMC",
+    "name_2": "Journalism Master",
+    "name_3": "Mass Comm Master",
+    "name_4": "MA Mass Communication",
+    "name_5": "Journalism & Mass Comm"
+  },
+  {
+    "course_id": 52,
+    "primary name": "Master of Arts Journalism and Mass Communication Tamil",
+    "name_1": "MAJMCT",
+    "name_2": "Tamil Journalism Master",
+    "name_3": "MA Tamil Journalism",
+    "name_4": "Mass Communication Tamil",
+    "name_5": "Journalism Tamil"
+  },
+  {
+    "course_id": 53,
+    "primary name": "Master of Arts Journalism and Digital Media",
+    "name_1": "MAJDM",
+    "name_2": "Digital Media Master",
+    "name_3": "MA Digital Journalism",
+    "name_4": "Journalism & Digital Media",
+    "name_5": "Digital Journalism"
+  },
+  {
+    "course_id": 54,
+    "primary name": "Master of Arts Journalism and Electronic Media",
+    "name_1": "MAJEM",
+    "name_2": "Electronic Media Master",
+    "name_3": "MA Electronic Journalism",
+    "name_4": "Journalism & Electronic Media",
+    "name_5": "Electronic Journalism"
+  },
+  {
+    "course_id": 55,
+    "primary name": "Master of Arts Development Journalism",
+    "name_1": "MADJ",
+    "name_2": "Development Journalism Master",
+    "name_3": "MA Development Journalism",
+    "name_4": "Journalism Development",
+    "name_5": "Development Journalism"
+  },
+  {
+    "course_id": 56,
+    "primary name": "Master of Arts Sanskrit",
+    "name_1": "MSK",
+    "name_2": "Sanskrit Master",
+    "name_3": "MA Sanskrit",
+    "name_4": "Master's in Sanskrit",
+    "name_5": "Sanskrit Arts Degree"
+  },
+  {
+    "course_id": 57,
+    "primary name": "Master of Arts Urdu",
+    "name_1": "MAUD",
+    "name_2": "Urdu Master",
+    "name_3": "MA Urdu",
+    "name_4": "Master's in Urdu",
+    "name_5": "Urdu Arts Degree"
+  },
+  {
+    "course_id": 58,
+    "primary name": "Master of Arts Jyotish",
+    "name_1": "MAJY",
+    "name_2": "Jyotish Master",
+    "name_3": "MA Jyotish",
+    "name_4": "Master's in Jyotish",
+    "name_5": "Jyotish Arts Degree"
+  },
+  {
+    "course_id": 59,
+    "primary name": "Master of Arts in Hindi Vyavsayik Lekhan",
+    "name_1": "MAHV",
+    "name_2": "Hindi Lekhan Master",
+    "name_3": "MA Hindi Lekhan",
+    "name_4": "Vyavsayik Lekhan",
+    "name_5": "Hindi Professional Writing"
+  },
+  {
+    "course_id": 60,
+    "primary name": "Master of Arts in Vedic Studies",
+    "name_1": "MAVS",
+    "name_2": "Vedic Studies Master",
+    "name_3": "MA Vedic Studies",
+    "name_4": "Master's in Vedic Studies",
+    "name_5": "Vedic Arts Degree"
+  },
+  {
+    "course_id": 61,
+    "primary name": "Master of Arts in Hindu Studies",
+    "name_1": "MAHN",
+    "name_2": "Hindu Studies Master",
+    "name_3": "MA Hindu Studies",
+    "name_4": "Master's in Hindu Studies",
+    "name_5": "Hindu Arts Degree"
+  },
+  {
+    "course_id": 62,
+    "primary name": "Master of Arts Applied Urdu",
+    "name_1": "MAAUD",
+    "name_2": "Applied Urdu Master",
+    "name_3": "MA Applied Urdu",
+    "name_4": "Master's in Applied Urdu",
+    "name_5": "Urdu Applications"
+  },
+  {
+    "course_id": 63,
+    "primary name": "Master of Arts Bhagavadgita studies",
+    "name_1": "MABGS",
+    "name_2": "Bhagavadgita Master",
+    "name_3": "MA Bhagavadgita",
+    "name_4": "Master's in Bhagavadgita Studies",
+    "name_5": "Bhagavad Gita Studies"
+  },
+  {
+    "course_id": 64,
+    "primary name": "M.Sc.Food Safety & Quality Management",
+    "name_1": "MSCFSQM",
+    "name_2": "Food Safety Master",
+    "name_3": "MSc Food Safety",
+    "name_4": "Quality Management Master",
+    "name_5": "Food Quality Management"
+  },
+  {
+    "course_id": 65,
+    "primary name": "Master of Business Administration Agribusiness Management",
+    "name_1": "MBAABM",
+    "name_2": "Agribusiness MBA",
+    "name_3": "MBA Agribusiness",
+    "name_4": "Agribusiness Management Master",
+    "name_5": "Master Agribusiness"
+  },
+  {
+    "course_id": 66,
+    "primary name": "M.Sc. Environmental Science",
+    "name_1": "MSCENV",
+    "name_2": "Environmental Science Master",
+    "name_3": "MSc Environment",
+    "name_4": "Master's in Environmental Science",
+    "name_5": "Environment Science Master"
+  },
+  {
+    "course_id": 67,
+    "primary name": "Master of Arts Folklore and Culture Studies",
+    "name_1": "MAFCS",
+    "name_2": "Folklore Master",
+    "name_3": "Culture Studies Master",
+    "name_4": "MA Folklore",
+    "name_5": "Folklore Arts Degree"
+  },
+  {
+    "course_id": 68,
+    "primary name": "Master of Arts Environmental and Occupational Health",
+    "name_1": "MAENOH",
+    "name_2": "Environmental Health Master",
+    "name_3": "Occupational Health MA",
+    "name_4": "Master's in Environmental Health",
+    "name_5": "Env & Occ Health"
+  },
+  {
+    "course_id": 69,
+    "primary name": "Master of Arts Sustainability Science",
+    "name_1": "MASS",
+    "name_2": "Sustainability Master",
+    "name_3": "MA Sustainability",
+    "name_4": "Master's in Sustainability Science",
+    "name_5": "Sustainability Arts Degree"
+  },
+  {
+    "course_id": 70,
+    "primary name": "Master of Arts Environmental Studies",
+    "name_1": "MAEVS",
+    "name_2": "Environmental Studies Master",
+    "name_3": "MA Environmental",
+    "name_4": "Master's in Environmental Studies",
+    "name_5": "Env Studies Arts Degree"
+  },
+  {
+    "course_id": 71,
+    "primary name": "Master of Arts in Migration and Diaspora",
+    "name_1": "MAMIDIM",
+    "name_2": "Migration Master",
+    "name_3": "Diaspora Studies MA",
+    "name_4": "MA Migration & Diaspora Studies",
+    "name_5": "Migration & Diaspora"
+  },
+  {
+    "course_id": 72,
+    "primary name": "Master of Arts Drawing and Painting",
+    "name_1": "MADP",
+    "name_2": "Drawing Master",
+    "name_3": "Painting Master",
+    "name_4": "MA Drawing and Painting",
+    "name_5": "Drawing & Painting Arts"
+  },
+  {
+    "course_id": 73,
+    "primary name": "Master of Science Information Security",
+    "name_1": "MSCIS",
+    "name_2": "Info Security Master",
+    "name_3": "MSc Info Security",
+    "name_4": "Master's in Information Security",
+    "name_5": "Information Security Science"
+  },
+  {
+    "course_id": 74,
+    "primary name": "Master of Arts Entrepreneurship",
+    "name_1": "MAER",
+    "name_2": "Entrepreneurship Master",
+    "name_3": "MA Entrepreneurship",
+    "name_4": "Master's in Entrepreneurship",
+    "name_5": "Entrepreneurship Arts Degree"
+  },
+  {
+    "course_id": 75,
+    "primary name": "Master of Arts in Arabic",
+    "name_1": "MAARB",
+    "name_2": "Arabic Master",
+    "name_3": "MA Arabic",
+    "name_4": "Master's in Arabic",
+    "name_5": "Arabic Arts Degree"
+  },
+  {
+    "course_id": 76,
+    "primary name": "Master of Arts in Russian",
+    "name_1": "MARUS",
+    "name_2": "Russian Master",
+    "name_3": "MA Russian",
+    "name_4": "Master's in Russian",
+    "name_5": "Russian Arts Degree"
+  },
+  {
+    "course_id": 77,
+    "primary name": "Master of Arts in French",
+    "name_1": "MAFL",
+    "name_2": "French Master",
+    "name_3": "MA French",
+    "name_4": "Master's in French",
+    "name_5": "French Arts Degree"
+  },
+  {
+    "course_id": 78,
+    "primary name": "Master of Arts in Spanish",
+    "name_1": "MASL",
+    "name_2": "Spanish Master",
+    "name_3": "MA Spanish",
+    "name_4": "Master's in Spanish",
+    "name_5": "Spanish Arts Degree"
+  },
+  {
+    "course_id": 79,
+    "primary name": "MBA Health Care and Hospital Management",
+    "name_1": "MBAHCHM",
+    "name_2": "Healthcare MBA",
+    "name_3": "Hospital Management MBA",
+    "name_4": "Health Care Management Master",
+    "name_5": "Hospital & Healthcare MBA"
+  },
+  {
+    "course_id": 80,
+    "primary name": "Bachelor of Arts",
+    "name_1": "BAM",
+    "name_2": "BA Degree",
+    "name_3": "Arts Bachelor",
+    "name_4": "Bachelor Arts",
+    "name_5": ""
+  },
+  {
+    "course_id": 81,
+    "primary name": "Bachelor of Science",
+    "name_1": "BSCM",
+    "name_2": "BSc Degree",
+    "name_3": "Science Bachelor",
+    "name_4": "Bachelor Science",
+    "name_5": ""
+  },
+  {
+    "course_id": 82,
+    "primary name": "Bachelor of Arts Economics Major/FYUP Hons.",
+    "name_1": "BAFEC",
+    "name_2": "BA Economics",
+    "name_3": "Economics Hons",
+    "name_4": "Bachelor of Arts Economics",
+    "name_5": "Economics Major"
+  },
+  {
+    "course_id": 83,
+    "primary name": "Bachelor of Arts History Major/FYUP Hons.",
+    "name_1": "BAFHI",
+    "name_2": "BA History",
+    "name_3": "History Hons",
+    "name_4": "Bachelor of Arts History",
+    "name_5": "History Major"
+  },
+  {
+    "course_id": 84,
+    "primary name": "Bachelor of Arts Political Science Major/FYUP Hons.",
+    "name_1": "BAFPS",
+    "name_2": "BA Political Science",
+    "name_3": "Political Science Hons",
+    "name_4": "Bachelor of Arts Political Science",
+    "name_5": "Political Science Major"
+  },
+  {
+    "course_id": 85,
+    "primary name": "Bachelor of Arts Psychology Major/FYUP Hons.",
+    "name_1": "BAFPC",
+    "name_2": "BA Psychology",
+    "name_3": "Psychology Hons",
+    "name_4": "Bachelor of Arts Psychology",
+    "name_5": "Psychology Major"
+  },
+  {
+    "course_id": 86,
+    "primary name": "Bachelor of Arts Public Administration Major/FYUP Hons.",
+    "name_1": "BAFPA",
+    "name_2": "BA Public Admin",
+    "name_3": "Public Admin Hons",
+    "name_4": "Bachelor of Arts Public Administration",
+    "name_5": "Public Administration Major"
+  },
+  {
+    "course_id": 87,
+    "primary name": "Bachelor of Arts Sociology Major/FYUP Hons.",
+    "name_1": "BAFSO",
+    "name_2": "BA Sociology",
+    "name_3": "Sociology Hons",
+    "name_4": "Bachelor of Arts Sociology",
+    "name_5": "Sociology Major"
+  },
+  {
+    "course_id": 88,
+    "primary name": "Bachelor of Science Anthropology Major/FYUP Hons.",
+    "name_1": "BSCFAN",
+    "name_2": "BSc Anthropology",
+    "name_3": "Anthropology Hons",
+    "name_4": "Bachelor of Science Anthropology",
+    "name_5": "Anthropology Major"
+  },
+  {
+    "course_id": 89,
+    "primary name": "Bachelor of Arts English Major/FYUP Hons.",
+    "name_1": "BAFEG",
+    "name_2": "BA English",
+    "name_3": "English Hons",
+    "name_4": "Bachelor of Arts English",
+    "name_5": "English Major"
+  },
+  {
+    "course_id": 90,
+    "primary name": "Bachelor of Arts Hindi Major/FYUP Hons.",
+    "name_1": "BAFHD",
+    "name_2": "BA Hindi",
+    "name_3": "Hindi Hons",
+    "name_4": "Bachelor of Arts Hindi",
+    "name_5": "Hindi Major"
+  },
+  {
+    "course_id": 91,
+    "primary name": "Bachelor of Arts Sanskrit Major/FYUP Hons.",
+    "name_1": "BAFSK",
+    "name_2": "BA Sanskrit",
+    "name_3": "Sanskrit Hons",
+    "name_4": "Bachelor of Arts Sanskrit",
+    "name_5": "Sanskrit Major"
+  },
+  {
+    "course_id": 92,
+    "primary name": "Bachelor of Arts Urdu Major/FYUP Hons.",
+    "name_1": "BAFUD",
+    "name_2": "BA Urdu",
+    "name_3": "Urdu Hons",
+    "name_4": "Bachelor of Arts Urdu",
+    "name_5": "Urdu Major"
+  },
+  {
+    "course_id": 93,
+    "primary name": "Bachelor of Commerce Major/FYUP Hons.",
+    "name_1": "BCOMF",
+    "name_2": "BCom Hons",
+    "name_3": "Commerce Hons",
+    "name_4": "Bachelor of Commerce",
+    "name_5": "Commerce Major"
+  },
+  {
+    "course_id": 94,
+    "primary name": "Bachelor of Science Biochemistry Major/FYUP Hons.",
+    "name_1": "BSCFBC",
+    "name_2": "BSc Biochemistry",
+    "name_3": "Biochemistry Hons",
+    "name_4": "Bachelor of Science Biochemistry",
+    "name_5": "Biochemistry Major"
+  },
+  {
+    "course_id": 95,
+    "primary name": "Bachelor of Social Work Major/FYUP Hons.",
+    "name_1": "BFSW",
+    "name_2": "BSW Hons",
+    "name_3": "Social Work Bachelor",
+    "name_4": "Bachelor of Social Work",
+    "name_5": "Social Work Major"
+  },
+  {
+    "course_id": 96,
+    "primary name": "Bachelor of Arts Facilities and Services Management Major/FYUP Hons.",
+    "name_1": "BAFFSM",
+    "name_2": "BA Facilities Management",
+    "name_3": "Services Management BA",
+    "name_4": "Bachelor of Arts Facilities Management",
+    "name_5": "Facilities Management Major"
+  },
+  {
+    "course_id": 97,
+    "primary name": "Bachelor of Arts Philosophy Major/FYUP Hons.",
+    "name_1": "BAFPY",
+    "name_2": "BA Philosophy",
+    "name_3": "Philosophy Hons",
+    "name_4": "Bachelor of Arts Philosophy",
+    "name_5": "Philosophy Major"
+  },
+  {
+    "course_id": 98,
+    "primary name": "Bachelor of Arts Journalism and Digital MediaMajor/FYUP Hons.",
+    "name_1": "BAFJDM",
+    "name_2": "BA Digital Media Journalism",
+    "name_3": "Digital Media BA",
+    "name_4": "Bachelor of Arts Journalism Digital Media",
+    "name_5": "Journalism Digital Media Major"
+  },
+  {
+    "course_id": 99,
+    "primary name": "Bachelor of Arts Micro Small and Medium Enterprises Major/FYUP Hons.",
+    "name_1": "BAMSME",
+    "name_2": "BA MSME",
+    "name_3": "Micro Enterprises BA",
+    "name_4": "Bachelor of Arts Small Medium Enterprises",
+    "name_5": "MSME Major"
+  },
+  {
+    "course_id": 100,
+    "primary name": "B.Sc.Food Safety and Quality Management Major/FYUP Hons.",
+    "name_1": "BSCFFSQM",
+    "name_2": "BSc Food Safety Hons",
+    "name_3": "Food Safety BSc",
+    "name_4": "Bachelor of Science Food Safety Management",
+    "name_5": "Food Safety Quality Major"
+  },
+  {
+    "course_id": 101,
+    "primary name": "Bachelor of Performing Arts–Hindustani Music Major/FYUP Hons.",
+    "name_1": "BPAFHM",
+    "name_2": "BPA Hindustani Music",
+    "name_3": "Hindustani Music BA",
+    "name_4": "Bachelor Hindustani Music",
+    "name_5": "Performing Arts Hindustani"
+  },
+  {
+    "course_id": 102,
+    "primary name": "B.Sc. Mathematics Major/FYUP Hons.",
+    "name_1": "BSCFMT",
+    "name_2": "BSc Mathematics",
+    "name_3": "Maths Hons",
+    "name_4": "Bachelor Science Maths",
+    "name_5": "Mathematics Major"
+  },
+  {
+    "course_id": 103,
+    "primary name": "B.A. Vocational Studies Tourism Management Major/FYUP Hons.",
+    "name_1": "BAFVTM",
+    "name_2": "BA Tourism Management",
+    "name_3": "Tourism Voc Studies",
+    "name_4": "Bachelor Tourism Management",
+    "name_5": "Vocational Tourism BA"
+  },
+  {
+    "course_id": 104,
+    "primary name": "Bachelor of Tourism and Travel Management",
+    "name_1": "BFTTM",
+    "name_2": "Tourism Management Bachelor",
+    "name_3": "Travel Management BA",
+    "name_4": "Bachelor Travel Management",
+    "name_5": "Tourism & Travel Management"
+  },
+  {
+    "course_id": 105,
+    "primary name": "Bachelor of Arts Education Major/FYUP Hons.",
+    "name_1": "BAFEDU",
+    "name_2": "BA Education",
+    "name_3": "Education Hons",
+    "name_4": "Bachelor of Arts Education",
+    "name_5": "Education Major"
+  },
+  {
+    "course_id": 106,
+    "primary name": "Bachelor of Business Administration Services Management",
+    "name_1": "BBASM",
+    "name_2": "Services Management BBA",
+    "name_3": "BBA Services",
+    "name_4": "Bachelor Services Management",
+    "name_5": "Business Admin Services"
+  },
+  {
+    "course_id": 107,
+    "primary name": "Bachelor of Business Administration Retailing",
+    "name_1": "BBARIL",
+    "name_2": "Retailing BBA",
+    "name_3": "BBA Retailing",
+    "name_4": "Bachelor Retailing",
+    "name_5": "Business Admin Retailing"
+  },
+  {
+    "course_id": 108,
+    "primary name": "Bachelor of Business Administration",
+    "name_1": "BBA",
+    "name_2": "BBA Degree",
+    "name_3": "Business Admin Degree",
+    "name_4": "Bachelor of Business Admin",
+    "name_5": ""
+  },
+  {
+    "course_id": 109,
+    "primary name": "Bachelor of Science Applied Science -Energy",
+    "name_1": "BSCAEY",
+    "name_2": "Applied Science Energy BSc",
+    "name_3": "Energy Science Bachelor",
+    "name_4": "Bachelor of Science Energy",
+    "name_5": "Energy Applied Science"
+  },
+  {
+    "course_id": 110,
+    "primary name": "Bachelor of Computer Applications",
+    "name_1": "BCA_NEW",
+    "name_2": "Computer Applications Bachelor",
+    "name_3": "BCA New",
+    "name_4": "Bachelor of Computer Applications",
+    "name_5": "BCA"
+  },
+  {
+    "course_id": 111,
+    "primary name": "Bachelor of Library and Information Sciences",
+    "name_1": "BLIS",
+    "name_2": "Library Science Bachelor",
+    "name_3": "BLISc",
+    "name_4": "Bachelor Library Science",
+    "name_5": "Library & Info Science"
+  },
+  {
+    "course_id": 112,
+    "primary name": "Bachelor of Arts Gender Studies",
+    "name_1": "BAGS",
+    "name_2": "Gender Studies BA",
+    "name_3": "BA Gender Studies",
+    "name_4": "Bachelor of Arts Gender Studies",
+    "name_5": "Gender Studies Bachelor"
+  },
+  {
+    "course_id": 113,
+    "primary name": "Bachelor of Arts in Applied Sanskrit",
+    "name_1": "BAASK",
+    "name_2": "Applied Sanskrit BA",
+    "name_3": "Sanskrit Applied BA",
+    "name_4": "Bachelor of Arts Applied Sanskrit",
+    "name_5": "Applied Sanskrit"
+  },
+  {
+    "course_id": 114,
+    "primary name": "Bachelor of Arts in Applied Hindi",
+    "name_1": "BAAHD",
+    "name_2": "Applied Hindi BA",
+    "name_3": "Hindi Applied BA",
+    "name_4": "Bachelor of Arts Applied Hindi",
+    "name_5": "Applied Hindi"
+  },
+  {
+    "course_id": 115,
+    "primary name": "Bachelor of Arts in Applied Urdu",
+    "name_1": "BAAUD",
+    "name_2": "Applied Urdu BA",
+    "name_3": "Urdu Applied BA",
+    "name_4": "Bachelor of Arts Applied Urdu",
+    "name_5": "Applied Urdu"
+  },
+  {
+    "course_id": 116,
+    "primary name": "Bachelor of Arts Honours Economics",
+    "name_1": "BAECH",
+    "name_2": "BA Hons Economics",
+    "name_3": "Economics BA Hons",
+    "name_4": "Bachelor Arts Economics Honours",
+    "name_5": "Economics Honours"
+  },
+  {
+    "course_id": 117,
+    "primary name": "Bachelor of Arts Honours History",
+    "name_1": "BAHIH",
+    "name_2": "BA Hons History",
+    "name_3": "History BA Hons",
+    "name_4": "Bachelor Arts History Honours",
+    "name_5": "History Honours"
+  },
+  {
+    "course_id": 118,
+    "primary name": "Bachelor of Arts Honours Political Science",
+    "name_1": "BAPSH",
+    "name_2": "BA Hons Political Science",
+    "name_3": "Political Science BA Hons",
+    "name_4": "Bachelor Arts Political Science Honours",
+    "name_5": "Political Science Honours"
+  },
+  {
+    "course_id": 119,
+    "primary name": "Bachelor of Arts Honours Psychology",
+    "name_1": "BAPCH",
+    "name_2": "BA Hons Psychology",
+    "name_3": "Psychology BA Hons",
+    "name_4": "Bachelor Arts Psychology Honours",
+    "name_5": "Psychology Honours"
+  },
+  {
+    "course_id": 120,
+    "primary name": "Bachelor of Arts Honours Public Administration",
+    "name_1": "PAPAH",
+    "name_2": "BA Hons Public Administration",
+    "name_3": "Public Admin BA Hons",
+    "name_4": "Bachelor Arts Public Admin Honours",
+    "name_5": "Public Administration Honours"
+  },
+  {
+    "course_id": 121,
+    "primary name": "Bachelor of Arts Honours Sociology",
+    "name_1": "BASOH",
+    "name_2": "BA Hons Sociology",
+    "name_3": "Sociology BA Hons",
+    "name_4": "Bachelor Arts Sociology Honours",
+    "name_5": "Sociology Honours"
+  },
+  {
+    "course_id": 122,
+    "primary name": "Bachelor of Science Honours Anthropology",
+    "name_1": "BSCANH",
+    "name_2": "BSc Hons Anthropology",
+    "name_3": "Anthropology BSc Hons",
+    "name_4": "Bachelor Science Anthropology Honours",
+    "name_5": "Anthropology Honours"
+  },
+  {
+    "course_id": 123,
+    "primary name": "Bachelor of Arts English Honours",
+    "name_1": "BAEGH",
+    "name_2": "BA Hons English",
+    "name_3": "English BA Hons",
+    "name_4": "Bachelor Arts English Honours",
+    "name_5": "English Honours"
+  },
+  {
+    "course_id": 124,
+    "primary name": "Bachelor of Arts Hindi Honours",
+    "name_1": "BAHDH",
+    "name_2": "BA Hons Hindi",
+    "name_3": "Hindi BA Hons",
+    "name_4": "Bachelor Arts Hindi Honours",
+    "name_5": "Hindi Honours"
+  },
+  {
+    "course_id": 125,
+    "primary name": "Bachelor of Arts Sanskrit Honours",
+    "name_1": "BASKH",
+    "name_2": "BA Hons Sanskrit",
+    "name_3": "Sanskrit BA Hons",
+    "name_4": "Bachelor Arts Sanskrit Honours",
+    "name_5": "Sanskrit Honours"
+  },
+  {
+    "course_id": 126,
+    "primary name": "Bachelor of Arts Urdu Honours",
+    "name_1": "BAUDH",
+    "name_2": "BA Hons Urdu",
+    "name_3": "Urdu BA Hons",
+    "name_4": "Bachelor Arts Urdu Honours",
+    "name_5": "Urdu Honours"
+  },
+  {
+    "course_id": 127,
+    "primary name": "Bachelor of Science Honours Biochemistry",
+    "name_1": "BSCBCH",
+    "name_2": "BSc Hons Biochemistry",
+    "name_3": "Biochemistry BSc Hons",
+    "name_4": "Bachelor Science Biochemistry Honours",
+    "name_5": "Biochemistry Honours"
+  },
+  {
+    "course_id": 128,
+    "primary name": "Post Graduate Diploma in Rural Development",
+    "name_1": "PGDRD",
+    "name_2": "PGD Rural Development",
+    "name_3": "Post Graduate Diploma Rural Development",
+    "name_4": "Rural Development Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 129,
+    "primary name": "Post Graduate Diploma in Counselling and Family Therapy",
+    "name_1": "PGDCFT",
+    "name_2": "PGD Counselling Therapy",
+    "name_3": "Post Graduate Diploma Counselling Therapy",
+    "name_4": "Family Therapy Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 130,
+    "primary name": "Post Graduate Diploma in Early Childhood and Foundational Stage Education",
+    "name_1": "PGDECFE",
+    "name_2": "PGD Early Childhood Education",
+    "name_3": "Post Graduate Diploma Early Childhood Edu",
+    "name_4": "Early Childhood Education Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 131,
+    "primary name": "Post Graduate Diploma in Translation",
+    "name_1": "PGDT",
+    "name_2": "PGD Translation",
+    "name_3": "Post Graduate Diploma Translation",
+    "name_4": "Translation Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 132,
+    "primary name": "Post Graduate Diploma in Sindhi-Hindi-Sindhi Translation",
+    "name_1": "PGDSHST",
+    "name_2": "PGD Sindhi Hindi Translation",
+    "name_3": "Post Graduate Diploma Sindhi-Hindi",
+    "name_4": "Sindhi Translation Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 133,
+    "primary name": "Post Graduate Diploma in International Business Operations",
+    "name_1": "PGDIBO",
+    "name_2": "PGD International Business",
+    "name_3": "Post Graduate Diploma International Business",
+    "name_4": "International Business Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 134,
+    "primary name": "Post Graduate Diploma in Applied Statistics",
+    "name_1": "PGDAST",
+    "name_2": "PGD Applied Statistics",
+    "name_3": "Post Graduate Diploma Applied Statistics",
+    "name_4": "Applied Statistics Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 135,
+    "primary name": "Post Graduate Diploma in Environment and Sustainable Development",
+    "name_1": "PGDESD",
+    "name_2": "PGD Environment Development",
+    "name_3": "Post Graduate Diploma Env & Sust Dev",
+    "name_4": "Environment & Sustainable Dev Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 136,
+    "primary name": "Post Graduate Diploma in Analytical Chemistry",
+    "name_1": "PGDAC",
+    "name_2": "PGD Analytical Chemistry",
+    "name_3": "Post Graduate Diploma Analytical Chemistry",
+    "name_4": "Analytical Chemistry Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 137,
+    "primary name": "Post Graduation Diploma in Geo-informatics",
+    "name_1": "PGDGI",
+    "name_2": "PGD Geo-informatics",
+    "name_3": "Post Graduate Diploma Geo-informatics",
+    "name_4": "Geoinformatics Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 138,
+    "primary name": "Post Graduate Diploma in Mental Health",
+    "name_1": "PGDMH",
+    "name_2": "PGD Mental Health",
+    "name_3": "Post Graduate Diploma Mental Health",
+    "name_4": "Mental Health Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 139,
+    "primary name": "Post Graduate Diploma in Library Automation and Networking",
+    "name_1": "PGDLAN",
+    "name_2": "PGD Library Automation",
+    "name_3": "Post Graduate Diploma Library Networking",
+    "name_4": "Library Automation Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 140,
+    "primary name": "Post Graduate Diploma in Gandhi and Peace Studies",
+    "name_1": "PGDGPS",
+    "name_2": "PGD Gandhi Peace Studies",
+    "name_3": "Post Graduate Diploma Gandhi Studies",
+    "name_4": "Gandhi Peace Studies Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 141,
+    "primary name": "Post Graduate Diploma in Disaster Risk Reduction and Management",
+    "name_1": "PGDDRRM",
+    "name_2": "PGD Disaster Management",
+    "name_3": "Post Graduate Diploma Disaster Reduction",
+    "name_4": "Disaster Management Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 142,
+    "primary name": "Post Graduate Diploma in Rehabilitation Psychology",
+    "name_1": "PGDRPC",
+    "name_2": "PGD Rehabilitation Psychology",
+    "name_3": "Post Graduate Diploma Rehabilitation",
+    "name_4": "Rehabilitation Psychology Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 143,
+    "primary name": "Post Graduate Diploma in Higher Education",
+    "name_1": "PGDHE",
+    "name_2": "PGD Higher Education",
+    "name_3": "Post Graduate Diploma Higher Education",
+    "name_4": "Higher Education Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 144,
+    "primary name": "Post Graduate Diploma in Educational Technology",
+    "name_1": "PGDET",
+    "name_2": "PGD Educational Technology",
+    "name_3": "Post Graduate Diploma Ed Tech",
+    "name_4": "Educational Technology Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 145,
+    "primary name": "Post Graduate Diploma in School Leadership and Management",
+    "name_1": "PGDSLM",
+    "name_2": "PGD School Leadership",
+    "name_3": "Post Graduate Diploma School Management",
+    "name_4": "School Leadership Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 146,
+    "primary name": "Post Graduate Diploma in Educational Management and Administration",
+    "name_1": "PGDEMA",
+    "name_2": "PGD Educational Management",
+    "name_3": "Post Graduate Diploma Educational Admin",
+    "name_4": "Educational Management Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 147,
+    "primary name": "Post Graduate Diploma in Pre Primary Education",
+    "name_1": "PGDPPED",
+    "name_2": "PGD Pre Primary Education",
+    "name_3": "Post Graduate Diploma Pre Primary Edu",
+    "name_4": "Pre Primary Education Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 148,
+    "primary name": "Post Graduate Diploma in Urban Planning and Development",
+    "name_1": "PGDUPDL",
+    "name_2": "PGD Urban Planning",
+    "name_3": "Post Graduate Diploma Urban Planning",
+    "name_4": "Urban Development Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 149,
+    "primary name": "Post Graduate Diploma in Development Studies",
+    "name_1": "PGDDVS",
+    "name_2": "PGD Development Studies",
+    "name_3": "Post Graduate Diploma Development Studies",
+    "name_4": "Development Studies Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 150,
+    "primary name": "Post Graduate Diploma in Corporate Social Responsibility",
+    "name_1": "PGDCSR",
+    "name_2": "PGD Corporate Social Responsibility",
+    "name_3": "Post Graduate Diploma Corporate Respon",
+    "name_4": "Corporate Social Responsibility Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 151,
+    "primary name": "Post Graduate Diploma in Journalism and Mass Communication",
+    "name_1": "PGJMC",
+    "name_2": "PG Diploma Journalism",
+    "name_3": "Post Grad Journalism",
+    "name_4": "Post Graduate Diploma Mass Comm",
+    "name_5": "PGD Journalism & Mass Comm"
+  },
+  {
+    "course_id": 152,
+    "primary name": "Post Graduate Diploma in Journalism and Mass Communication Tamil",
+    "name_1": "PGJMCT",
+    "name_2": "PG Diploma Tamil Journalism",
+    "name_3": "Post Grad Tamil Journalism",
+    "name_4": "Post Graduate Diploma Tamil JMC",
+    "name_5": "PGD Tamil Journalism"
+  },
+  {
+    "course_id": 153,
+    "primary name": "Post Graduate Diploma in Audio Programme Production",
+    "name_1": "PGDAPP",
+    "name_2": "PG Diploma Audio Production",
+    "name_3": "Post Grad Audio Production",
+    "name_4": "Post Graduate Diploma Audio Programs",
+    "name_5": "PGD Audio Program"
+  },
+  {
+    "course_id": 154,
+    "primary name": "Post Graduate Diploma in Digital Media",
+    "name_1": "PGDIDM",
+    "name_2": "PG Diploma Digital Media",
+    "name_3": "Post Grad Digital Media",
+    "name_4": "Post Graduate Diploma Digital",
+    "name_5": "PGD Digital Media"
+  },
+  {
+    "course_id": 155,
+    "primary name": "Post Graduate Diploma in Development Communication",
+    "name_1": "PGDDC",
+    "name_2": "PG Diploma Development Comm",
+    "name_3": "Post Grad Development Comm",
+    "name_4": "Post Graduate Diploma Development Comm",
+    "name_5": "PGD Development Communication"
+  },
+  {
+    "course_id": 156,
+    "primary name": "Post Graduate Diploma in Electronic Media",
+    "name_1": "PGDEME",
+    "name_2": "PG Diploma Electronic Media",
+    "name_3": "Post Grad Electronic Media",
+    "name_4": "Post Graduate Diploma Electronic",
+    "name_5": "PGD Electronic Media"
+  },
+  {
+    "course_id": 157,
+    "primary name": "Post Graduate Diploma in Advertising and Integrated Communication",
+    "name_1": "PGDAIC",
+    "name_2": "PG Diploma Advertising",
+    "name_3": "Post Grad Advertising",
+    "name_4": "Post Graduate Diploma Advertising Comm",
+    "name_5": "PGD Advertising & Integrated Comm"
+  },
+  {
+    "course_id": 158,
+    "primary name": "Post Graduate Diploma in Food Safety and Quality Management",
+    "name_1": "PGDFSQM",
+    "name_2": "PG Diploma Food Safety",
+    "name_3": "Post Grad Food Safety",
+    "name_4": "Post Graduate Diploma Food Quality",
+    "name_5": "PGD Food Safety & Quality"
+  },
+  {
+    "course_id": 159,
+    "primary name": "Post Graduate Diploma in Agribusiness",
+    "name_1": "PGDAB",
+    "name_2": "PG Diploma Agribusiness",
+    "name_3": "Post Grad Agribusiness",
+    "name_4": "Post Graduate Diploma Agribusiness",
+    "name_5": "PGD Agribusiness"
+  },
+  {
+    "course_id": 160,
+    "primary name": "Post Graduate Diploma in Information Security",
+    "name_1": "PGDIS",
+    "name_2": "PG Diploma Information Security",
+    "name_3": "Post Grad Info Security",
+    "name_4": "Post Graduate Diploma Cyber Security",
+    "name_5": "PGD Information Security"
+  },
+  {
+    "course_id": 161,
+    "primary name": "Post Graduate Diploma in Pharmaceutical Sales Management",
+    "name_1": "PGDPSM",
+    "name_2": "PG Diploma Pharma Sales",
+    "name_3": "Post Grad Pharma Sales",
+    "name_4": "Post Graduate Diploma Pharmaceutical Sales",
+    "name_5": "PGD Pharmaceutical Sales"
+  },
+  {
+    "course_id": 162,
+    "primary name": "Post Graduate Diploma in Intellectual Property Rights",
+    "name_1": "PGDIPR",
+    "name_2": "PG Diploma Intellectual Property",
+    "name_3": "Post Grad IPR",
+    "name_4": "Post Graduate Diploma Property Rights",
+    "name_5": "PGD IPR"
+  },
+  {
+    "course_id": 163,
+    "primary name": "Post Graduate Diploma in Criminal Justice",
+    "name_1": "PGDCJ",
+    "name_2": "PG Diploma Criminal Justice",
+    "name_3": "Post Grad Criminal Justice",
+    "name_4": "Post Graduate Diploma Criminal Law",
+    "name_5": "PGD Criminal Justice"
+  },
+  {
+    "course_id": 164,
+    "primary name": "Post Graduate Diploma Environmental and Occupational Health",
+    "name_1": "PGDENOH",
+    "name_2": "PG Diploma Environmental Health",
+    "name_3": "Post Grad Occ Health",
+    "name_4": "Post Graduate Diploma Env Health",
+    "name_5": "PGD Env & Occ Health"
+  },
+  {
+    "course_id": 165,
+    "primary name": "Post Graduate Diploma in Folklore and Culture Studies",
+    "name_1": "PGDFCSP",
+    "name_2": "PG Diploma Folklore Studies",
+    "name_3": "Post Grad Culture Studies",
+    "name_4": "Post Graduate Diploma Folklore",
+    "name_5": "PGD Folklore & Culture"
+  },
+  {
+    "course_id": 166,
+    "primary name": "Post Graduate Diploma in Sustainability Science",
+    "name_1": "PGDSS",
+    "name_2": "PG Diploma Sustainability",
+    "name_3": "Post Grad Sustainability",
+    "name_4": "Post Graduate Diploma Sustainability",
+    "name_5": "PGD Sustainability"
+  },
+  {
+    "course_id": 167,
+    "primary name": "Post Graduate Diploma in Migration and Diaspora",
+    "name_1": "PGDMIDI",
+    "name_2": "PG Diploma Migration",
+    "name_3": "Post Grad Diaspora Studies",
+    "name_4": "Post Graduate Diploma Migration Studies",
+    "name_5": "PGD Migration & Diaspora"
+  },
+  {
+    "course_id": 168,
+    "primary name": "Post Graduate Diploma in Environmental Management & Law",
+    "name_1": "PGDEML",
+    "name_2": "PG Diploma Environmental Law",
+    "name_3": "Post Grad Environmental Mgmt",
+    "name_4": "Post Graduate Diploma Env Mgmt & Law",
+    "name_5": "PGD Environmental Management"
+  },
+  {
+    "course_id": 169,
+    "primary name": "Post Graduate Diploma in Environmental Studies",
+    "name_1": "PGDEVS",
+    "name_2": "PG Diploma Environmental Studies",
+    "name_3": "Post Grad Environmental",
+    "name_4": "Post Graduate Diploma Env Studies",
+    "name_5": "PGD Environmental Studies"
+  },
+  {
+    "course_id": 170,
+    "primary name": "Post Graduate Diploma in Waste Management",
+    "name_1": "PGDWAM",
+    "name_2": "PG Diploma Waste Management",
+    "name_3": "Post Grad Waste Management",
+    "name_4": "Post Graduate Diploma Waste",
+    "name_5": "PGD Waste Management"
+  },
+  {
+    "course_id": 171,
+    "primary name": "Post Graduate Diploma in Women’s & Gender Studies",
+    "name_1": "PGDWGSR",
+    "name_2": "PG Diploma Women's Studies",
+    "name_3": "Post Grad Gender Studies",
+    "name_4": "Post Graduate Diploma Women's Studies",
+    "name_5": "PGD Women's & Gender Studies"
+  },
+  {
+    "course_id": 172,
+    "primary name": "Post Graduate Diploma in Book Publishing",
+    "name_1": "PGDBP",
+    "name_2": "PG Diploma Book Publishing",
+    "name_3": "Post Grad Book Publishing",
+    "name_4": "Post Graduate Diploma Publishing",
+    "name_5": "PGD Book Publishing"
+  },
+  {
+    "course_id": 173,
+    "primary name": "Post Graduate Diploma in British Literature",
+    "name_1": "PGDBLT",
+    "name_2": "PG Diploma British Literature",
+    "name_3": "Post Grad British Lit",
+    "name_4": "Post Graduate Diploma British Literature",
+    "name_5": "PGD British Literature"
+  },
+  {
+    "course_id": 174,
+    "primary name": "Post Graduate Diploma in the Novel",
+    "name_1": "PGDNOV",
+    "name_2": "PG Diploma Novel",
+    "name_3": "Post Grad Novel",
+    "name_4": "Post Graduate Diploma Novel Studies",
+    "name_5": "PGD Novel Studies"
+  },
+  {
+    "course_id": 175,
+    "primary name": "Post Graduate Diploma in Writings from the Margins",
+    "name_1": "PGDWM",
+    "name_2": "PG Diploma Marginal Writings",
+    "name_3": "Post Grad Marginal Writings",
+    "name_4": "Post Graduate Diploma Writings Margins",
+    "name_5": "PGD Marginal Writings"
+  },
+  {
+    "course_id": 176,
+    "primary name": "Post Graduate Diploma in American Literature",
+    "name_1": "PGDAML",
+    "name_2": "PG Diploma American Literature",
+    "name_3": "Post Grad American Lit",
+    "name_4": "Post Graduate Diploma American Lit",
+    "name_5": "PGD American Literature"
+  },
+  {
+    "course_id": 177,
+    "primary name": "Post Graduate Diploma in Writings from India",
+    "name_1": "PGDWI",
+    "name_2": "PG Diploma Writings India",
+    "name_3": "Post Grad Indian Writings",
+    "name_4": "Post Graduate Diploma Indian Literature",
+    "name_5": "PGD Indian Writings"
+  },
+  {
+    "course_id": 178,
+    "primary name": "Post Graduate Diploma in New Literature in English",
+    "name_1": "PGDNLE",
+    "name_2": "PG Diploma New English Lit",
+    "name_3": "Post Grad New English Lit",
+    "name_4": "Post Graduate Diploma Modern English Lit",
+    "name_5": "PGD New Literature English"
+  },
+  {
+    "course_id": 179,
+    "primary name": "संस्कृत साहित्य में स्नातकोत्तर डिप्लोमा",
+    "name_1": "PGSKT",
+    "name_2": "PG Diploma Sanskrit Sahitya",
+    "name_3": "Post Grad Sanskrit",
+    "name_4": "Post Graduate Diploma Sanskrit Literature",
+    "name_5": "PGD Sanskrit Literature"
+  },
+  {
+    "course_id": 180,
+    "primary name": "Post Graduate Diploma in Social Work Counselling",
+    "name_1": "PGDCOUN",
+    "name_2": "PG Diploma Social Work Counselling",
+    "name_3": "Post Grad Social Work Counselling",
+    "name_4": "Post Graduate Diploma Social Counselling",
+    "name_5": "PGD Social Work Counselling"
+  },
+  {
+    "course_id": 181,
+    "primary name": "Post Graduate Diploma in Geriatric Medicine",
+    "name_1": "PGDGM",
+    "name_2": "PG Diploma Geriatric Medicine",
+    "name_3": "Post Grad Geriatric Medicine",
+    "name_4": "Post Graduate Diploma Geriatric",
+    "name_5": "PGD Geriatric Medicine"
+  },
+  {
+    "course_id": 182,
+    "primary name": "Post Graduate Diploma in Maternal and Child Health",
+    "name_1": "PGDMCH",
+    "name_2": "PG Diploma Maternal Child Health",
+    "name_3": "Post Grad MCH",
+    "name_4": "Post Graduate Diploma Maternal Health",
+    "name_5": "PGD Maternal Child Health"
+  },
+  {
+    "course_id": 183,
+    "primary name": "Post Graduate Diploma in Computer Applications",
+    "name_1": "PGDCA_NEW",
+    "name_2": "PG Diploma Computer Applications",
+    "name_3": "Post Grad Computer App",
+    "name_4": "Post Graduate Diploma Computer App",
+    "name_5": "PGD Computer Applications"
+  },
+  {
+    "course_id": 184,
+    "primary name": "Post Graduate Diploma in Vastu Shastra",
+    "name_1": "PGDVS",
+    "name_2": "PG Diploma Vastu Shastra",
+    "name_3": "Post Grad Vastu",
+    "name_4": "Post Graduate Diploma Vastu",
+    "name_5": "PGD Vastu Shastra"
+  },
+  {
+    "course_id": 185,
+    "primary name": "Post Graduate Diploma in Human Resource Management",
+    "name_1": "PGDIHRM",
+    "name_2": "PG Diploma Human Resource Mgmt",
+    "name_3": "Post Grad HRM",
+    "name_4": "Post Graduate Diploma HR Mgmt",
+    "name_5": "PGD Human Resource Management"
+  },
+  {
+    "course_id": 186,
+    "primary name": "Post Graduate Diploma in Financial Management",
+    "name_1": "PGDIFM",
+    "name_2": "PG Diploma Financial Management",
+    "name_3": "Post Grad Financial Mgmt",
+    "name_4": "Post Graduate Diploma Finance Mgmt",
+    "name_5": "PGD Financial Management"
+  },
+  {
+    "course_id": 187,
+    "primary name": "Post Graduate Diploma in Operations Management",
+    "name_1": "PGDIOM",
+    "name_2": "PG Diploma Operations Management",
+    "name_3": "Post Grad Operations Mgmt",
+    "name_4": "Post Graduate Diploma Operations",
+    "name_5": "PGD Operations Management"
+  },
+  {
+    "course_id": 188,
+    "primary name": "Post Graduate Diploma in Marketing Management",
+    "name_1": "PGDIMM",
+    "name_2": "PG Diploma Marketing Management",
+    "name_3": "Post Grad Marketing Mgmt",
+    "name_4": "Post Graduate Diploma Marketing",
+    "name_5": "PGD Marketing Management"
+  },
+  {
+    "course_id": 189,
+    "primary name": "Post Graduate Diploma in Services Management",
+    "name_1": "PGDISM",
+    "name_2": "PG Diploma Services Management",
+    "name_3": "Post Grad Services Mgmt",
+    "name_4": "Post Graduate Diploma Services",
+    "name_5": "PGD Services Management"
+  },
+  {
+    "course_id": 190,
+    "primary name": "Post Graduate Diploma in Animal Welfare",
+    "name_1": "PGDAW",
+    "name_2": "PG Diploma Animal Welfare",
+    "name_3": "Post Grad Animal Welfare",
+    "name_4": "Post Graduate Diploma Animal Ethics",
+    "name_5": "PGD Animal Welfare"
+  },
+  {
+    "course_id": 191,
+    "primary name": "Post Graduate Diploma in Population and Family Health Studies",
+    "name_1": "PGDPFHS",
+    "name_2": "PG Diploma Population Health",
+    "name_3": "Post Grad Family Health",
+    "name_4": "Post Graduate Diploma Population Studies",
+    "name_5": "PGD Population & Family Health"
+  },
+  {
+    "course_id": 192,
+    "primary name": "Post Graduate Diploma in Tribal Studies",
+    "name_1": "PGDTRBS",
+    "name_2": "PG Diploma Tribal Studies",
+    "name_3": "Post Grad Tribal Studies",
+    "name_4": "Post Graduate Diploma Tribal Affairs",
+    "name_5": "PGD Tribal Studies"
+  },
+  {
+    "course_id": 193,
+    "primary name": "Post Graduate Diploma in Industrial Safety",
+    "name_1": "PGDINDS",
+    "name_2": "PG Diploma Industrial Safety",
+    "name_3": "Post Grad Industrial Safety",
+    "name_4": "Post Graduate Diploma Safety",
+    "name_5": "PGD Industrial Safety"
+  },
+  {
+    "course_id": 194,
+    "primary name": "Post Graduate Diploma in Distance Education",
+    "name_1": "PGDDED",
+    "name_2": "PG Diploma Distance Education",
+    "name_3": "Post Grad Distance Education",
+    "name_4": "Post Graduate Diploma Distance Learning",
+    "name_5": "PGD Distance Education"
+  },
+  {
+    "course_id": 195,
+    "primary name": "Diploma in Early Childhood Care and Education",
+    "name_1": "DECE",
+    "name_2": "Early Childhood Diploma",
+    "name_3": "ECCE Diploma",
+    "name_4": "Diploma Early Childhood Education",
+    "name_5": "Early Childhood Care Diploma"
+  },
+  {
+    "course_id": 196,
+    "primary name": "Diploma in Nutrition & Health Education",
+    "name_1": "DNHE",
+    "name_2": "Nutrition Health Diploma",
+    "name_3": "Health Education Diploma",
+    "name_4": "Diploma Nutrition & Health",
+    "name_5": "Nutrition Education Diploma"
+  },
+  {
+    "course_id": 197,
+    "primary name": "Diploma in Panchayat Level Administration and Development",
+    "name_1": "DPLAD",
+    "name_2": "Panchayat Administration Diploma",
+    "name_3": "P L A D Diploma",
+    "name_4": "Diploma Panchayat Development",
+    "name_5": "Panchayat Admin Diploma"
+  },
+  {
+    "course_id": 198,
+    "primary name": "Diploma in Event Management",
+    "name_1": "DEVMT",
+    "name_2": "Event Management Diploma",
+    "name_3": "Events Diploma",
+    "name_4": "Diploma Events Management",
+    "name_5": "Event Management"
+  },
+  {
+    "course_id": 199,
+    "primary name": "Diploma in Apparel Merchandising",
+    "name_1": "DAPMER",
+    "name_2": "Apparel Merchandising Diploma",
+    "name_3": "Merchandising Diploma",
+    "name_4": "Diploma Apparel Merchandising",
+    "name_5": "Apparel Merch Diploma"
+  },
+  {
+    "course_id": 200,
+    "primary name": "Diploma in Apparel Merchandising Applied",
+    "name_1": "DAPMERA",
+    "name_2": "Applied Apparel Merchandising Diploma",
+    "name_3": "Applied Merch Diploma",
+    "name_4": "Diploma Applied Apparel Merchandising",
+    "name_5": "Apparel Merch Applied Diploma"
+  },
+  {
+    "course_id": 201,
+    "primary name": "Diploma in Tourism Studies",
+    "name_1": "DTS",
+    "name_2": "Tourism Studies Diploma",
+    "name_3": "Diploma Tourism",
+    "name_4": "Tourism Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 202,
+    "primary name": "Diploma in Creative Writing in English",
+    "name_1": "DCE",
+    "name_2": "Creative Writing Diploma",
+    "name_3": "English Writing Diploma",
+    "name_4": "Diploma Creative Writing",
+    "name_5": "Writing in English Diploma"
+  },
+  {
+    "course_id": 203,
+    "primary name": "Diploma in Urdu Language",
+    "name_1": "DUL",
+    "name_2": "Urdu Language Diploma",
+    "name_3": "Diploma Urdu",
+    "name_4": "Urdu Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 204,
+    "primary name": "Diploma in Dairy Technology",
+    "name_1": "DDT",
+    "name_2": "Dairy Technology Diploma",
+    "name_3": "Diploma Dairy",
+    "name_4": "Dairy Tech Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 205,
+    "primary name": "Diploma in Meat Technology",
+    "name_1": "DMT",
+    "name_2": "Meat Technology Diploma",
+    "name_3": "Diploma Meat",
+    "name_4": "Meat Tech Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 206,
+    "primary name": "Diploma in Watershed Management",
+    "name_1": "DWM",
+    "name_2": "Watershed Management Diploma",
+    "name_3": "Diploma Watershed",
+    "name_4": "Watershed Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 207,
+    "primary name": "Diploma in Value Added Products from Fruits & Vegetables",
+    "name_1": "DVAPFV",
+    "name_2": "Value Added Products Diploma",
+    "name_3": "Fruits & Veg Products Diploma",
+    "name_4": "Diploma Value Added Products",
+    "name_5": "Fruits & Vegetables Products"
+  },
+  {
+    "course_id": 208,
+    "primary name": "Diploma in Horticulture",
+    "name_1": "DHORT",
+    "name_2": "Horticulture Diploma",
+    "name_3": "Diploma Horticulture",
+    "name_4": "Horticulture Studies Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 209,
+    "primary name": "Diploma in Agricultural Cost Management",
+    "name_1": "DACM",
+    "name_2": "Agricultural Cost Mgmt Diploma",
+    "name_3": "Diploma Ag Cost Mgmt",
+    "name_4": "Ag Cost Management Diploma",
+    "name_5": "Agricultural Cost Diploma"
+  },
+  {
+    "course_id": 210,
+    "primary name": "Diploma in Women’s Empowerment and Development",
+    "name_1": "DWED",
+    "name_2": "Women's Empowerment Diploma",
+    "name_3": "Development & Empowerment Diploma",
+    "name_4": "Diploma Women Empowerment",
+    "name_5": "Women Empowerment Diploma"
+  },
+  {
+    "course_id": 211,
+    "primary name": "Diploma in HIV and Family Education",
+    "name_1": "DAFE",
+    "name_2": "HIV & Family Education Diploma",
+    "name_3": "Diploma HIV Education",
+    "name_4": "Family Education Diploma",
+    "name_5": "HIV Education Diploma"
+  },
+  {
+    "course_id": 212,
+    "primary name": "Diploma in Business Process Outsourcing — Finance and Accounting",
+    "name_1": "DBPOFA",
+    "name_2": "BPO Finance Diploma",
+    "name_3": "Finance & Accounting BPO Diploma",
+    "name_4": "Diploma BPO Finance",
+    "name_5": "Finance & Accounting BPO"
+  },
+  {
+    "course_id": 213,
+    "primary name": "Diploma in Modern Office Practice",
+    "name_1": "DMOP",
+    "name_2": "Modern Office Practice Diploma",
+    "name_3": "Diploma Office Practice",
+    "name_4": "Office Practice Diploma",
+    "name_5": "Modern Office Diploma"
+  },
+  {
+    "course_id": 214,
+    "primary name": "Diploma in Fashion Design and Retail",
+    "name_1": "DFDR",
+    "name_2": "Fashion Design Diploma",
+    "name_3": "Retail Design Diploma",
+    "name_4": "Diploma Fashion & Retail",
+    "name_5": "Fashion Design & Retail Diploma"
+  },
+  {
+    "course_id": 215,
+    "primary name": "Diploma in Paralegal Practice",
+    "name_1": "DIPP",
+    "name_2": "Paralegal Practice Diploma",
+    "name_3": "Diploma Paralegal",
+    "name_4": "Paralegal Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 216,
+    "primary name": "Diploma in Aquaculture",
+    "name_1": "DAQ",
+    "name_2": "Aquaculture Diploma",
+    "name_3": "Diploma Aquaculture",
+    "name_4": "Aquaculture Studies Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 217,
+    "primary name": "Diploma in Retailing",
+    "name_1": "DIRIL",
+    "name_2": "Retailing Diploma",
+    "name_3": "Diploma Retail",
+    "name_4": "Retail Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 218,
+    "primary name": "Diploma in Teaching German as a Foreign Language",
+    "name_1": "DTG",
+    "name_2": "Teaching German Diploma",
+    "name_3": "German Teaching Diploma",
+    "name_4": "Diploma German as Foreign Language",
+    "name_5": "German Language Teaching Diploma"
+  },
+  {
+    "course_id": 219,
+    "primary name": "Diploma in Nursing Administration",
+    "name_1": "DNA",
+    "name_2": "Nursing Administration Diploma",
+    "name_3": "Diploma Nursing Admin",
+    "name_4": "Nursing Admin Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 220,
+    "primary name": "Diploma in Critical Care Nursing",
+    "name_1": "DCCN",
+    "name_2": "Critical Care Nursing Diploma",
+    "name_3": "Diploma Critical Care",
+    "name_4": "Critical Care Diploma",
+    "name_5": "Nursing Critical Care Diploma"
+  },
+  {
+    "course_id": 221,
+    "primary name": "Diploma in Theatre Arts",
+    "name_1": "DTH",
+    "name_2": "Theatre Arts Diploma",
+    "name_3": "Diploma Theatre",
+    "name_4": "Theatre Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 222,
+    "primary name": "Diploma in Value Education",
+    "name_1": "DPVE",
+    "name_2": "Value Education Diploma",
+    "name_3": "Diploma Value Education",
+    "name_4": "Value Education Diploma",
+    "name_5": ""
+  },
+  {
+    "course_id": 223,
+    "primary name": "Diploma in Smart City Development and Management",
+    "name_1": "DSCDM",
+    "name_2": "Smart City Development Diploma",
+    "name_3": "Smart City Management Diploma",
+    "name_4": "Diploma Smart City Development",
+    "name_5": "Smart City Management Diploma"
+  },
+  {
+    "course_id": 224,
+    "primary name": "Post Graduate Certificate in Cyber Law",
+    "name_1": "PGCCL",
+    "name_2": "PG Cert Cyber Law",
+    "name_3": "Post Grad Cert Cyber Law",
+    "name_4": "Post Graduate Certificate Cyber Law",
+    "name_5": "Cyber Law PGC"
+  },
+  {
+    "course_id": 225,
+    "primary name": "PG Certificate in Patent Practice",
+    "name_1": "PGCPP",
+    "name_2": "PG Cert Patent Practice",
+    "name_3": "Post Grad Cert Patent Practice",
+    "name_4": "Post Graduate Certificate Patent Practice",
+    "name_5": "Patent Practice PGC"
+  },
+  {
+    "course_id": 226,
+    "primary name": "Post Graduate Certificate in Climate Change",
+    "name_1": "PGCCC",
+    "name_2": "PG Cert Climate Change",
+    "name_3": "Post Grad Cert Climate Change",
+    "name_4": "Post Graduate Certificate Climate Change",
+    "name_5": "Climate Change PGC"
+  },
+  {
+    "course_id": 227,
+    "primary name": "Post Graduate Certificate in Geoinformatics",
+    "name_1": "PGCGI",
+    "name_2": "PG Cert Geoinformatics",
+    "name_3": "Post Grad Cert Geoinformatics",
+    "name_4": "Post Graduate Certificate Geoinformatics",
+    "name_5": "Geoinformatics PGC"
+  },
+  {
+    "course_id": 228,
+    "primary name": "Advanced Certificate in Power Distribution Management",
+    "name_1": "ACPDM",
+    "name_2": "Adv Cert Power Distribution",
+    "name_3": "Advanced Cert Power Mgmt",
+    "name_4": "Advanced Certificate Power Distribution",
+    "name_5": "Power Distribution Adv Cert"
+  },
+  {
+    "course_id": 229,
+    "primary name": "Post Graduate Certificate in Agriculture Policy",
+    "name_1": "PGCAP",
+    "name_2": "PG Cert Agriculture Policy",
+    "name_3": "Post Grad Cert Agri Policy",
+    "name_4": "Post Graduate Certificate Agriculture Policy",
+    "name_5": "Agriculture Policy PGC"
+  },
+  {
+    "course_id": 230,
+    "primary name": "Post Graduate Certificate in Gandhi and Peace Studies",
+    "name_1": "PGCGPS",
+    "name_2": "PG Cert Gandhi Peace Studies",
+    "name_3": "Post Grad Cert Gandhi Studies",
+    "name_4": "Post Graduate Certificate Gandhi Studies",
+    "name_5": "Gandhi Peace Studies PGC"
+  },
+  {
+    "course_id": 231,
+    "primary name": "Post Graduate Certificate in Information and Assistive Technologies for the Instructors of Visually Impaired",
+    "name_1": "PGCIATIVI",
+    "name_2": "PG Cert Assistive Tech VI",
+    "name_3": "Post Grad Cert Info Tech VI",
+    "name_4": "Post Graduate Cert Visually Impaired Tech",
+    "name_5": "PGC Assistive Tech"
+  },
+  {
+    "course_id": 232,
+    "primary name": "Post Graduate Certificate in Bangla-Hindi Translation",
+    "name_1": "PGCBHT",
+    "name_2": "PG Cert Bangla-Hindi Translation",
+    "name_3": "Post Grad Cert Bangla Hindi",
+    "name_4": "Post Graduate Certificate Bangla Translation",
+    "name_5": "Bangla-Hindi Translation PGC"
+  },
+  {
+    "course_id": 233,
+    "primary name": "Post Graduate Certificate in Malayalam-Hindi Translation",
+    "name_1": "PGCMHT",
+    "name_2": "PG Cert Malayalam-Hindi Translation",
+    "name_3": "Post Grad Cert Malayalam Hindi",
+    "name_4": "Post Graduate Certificate Malayalam Translation",
+    "name_5": "Malayalam-Hindi Translation PGC"
+  },
+  {
+    "course_id": 234,
+    "primary name": "Post Graduate Certificate in Anuvaad evam Rupantaran mein Snatakottar Pramanpatra",
+    "name_1": "PGCAR",
+    "name_2": "PG Cert Anuvaad Rupantaran",
+    "name_3": "Post Grad Cert Anuvaad",
+    "name_4": "Post Graduate Certificate Rupantaran",
+    "name_5": "PGC Anuvaad & Rupantaran"
+  },
+  {
+    "course_id": 235,
+    "primary name": "Post Graduate Certificate in Medical Management of CBRNE Disasters",
+    "name_1": "PGCMDM",
+    "name_2": "PG Cert CBRNE Disasters",
+    "name_3": "Post Grad Cert CBRNE Mgmt",
+    "name_4": "Post Graduate Certificate Disaster Mgmt",
+    "name_5": "CBRNE Disasters PGC"
+  },
+  {
+    "course_id": 236,
+    "primary name": "Post Graduate Certificate in Inventory Planning and Warehousing for Engineers",
+    "name_1": "PGCIPWS",
+    "name_2": "PG Cert Inventory Planning",
+    "name_3": "Post Grad Cert Warehousing",
+    "name_4": "Post Graduate Cert Inventory & Warehousing",
+    "name_5": "Inventory Planning PGC"
+  },
+  {
+    "course_id": 237,
+    "primary name": "Post Graduate Certificate in Industrial Safety",
+    "name_1": "PGCINDS",
+    "name_2": "PG Cert Industrial Safety",
+    "name_3": "Post Grad Cert Industrial Safety",
+    "name_4": "Post Graduate Certificate Safety",
+    "name_5": "Industrial Safety PGC"
+  },
+  {
+    "course_id": 238,
+    "primary name": "Certificate in Library and Information Science",
+    "name_1": "CLIS",
+    "name_2": "Library Science Certificate",
+    "name_3": "Cert Library Science",
+    "name_4": "Certificate Library & Info Science",
+    "name_5": "Library Info Science Cert"
+  },
+  {
+    "course_id": 239,
+    "primary name": "Certificate in Disaster Management",
+    "name_1": "CDMC",
+    "name_2": "Disaster Management Certificate",
+    "name_3": "Cert Disaster Mgmt",
+    "name_4": "Disaster Mgmt Certificate",
+    "name_5": ""
+  },
+  {
+    "course_id": 240,
+    "primary name": "Certificate in Environmental Studies",
+    "name_1": "CES",
+    "name_2": "Environmental Studies Certificate",
+    "name_3": "Cert Environmental Studies",
+    "name_4": "Environmental Studies Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 241,
+    "primary name": "Certificate Programme on Life and Thought of Dr. B.R. Ambedkar",
+    "name_1": "CLTA",
+    "name_2": "Ambedkar Life & Thought Cert",
+    "name_3": "Cert Ambedkar Studies",
+    "name_4": "Certificate Dr. B.R. Ambedkar",
+    "name_5": "Ambedkar Studies Cert"
+  },
+  {
+    "course_id": 242,
+    "primary name": "Certificate in Peace Studies and Conflict Management",
+    "name_1": "CPSCM",
+    "name_2": "Peace Studies Certificate",
+    "name_3": "Cert Peace Studies",
+    "name_4": "Certificate Peace & Conflict Mgmt",
+    "name_5": "Peace & Conflict Cert"
+  },
+  {
+    "course_id": 243,
+    "primary name": "Certificate in Food and Nutrition",
+    "name_1": "CFN",
+    "name_2": "Food & Nutrition Certificate",
+    "name_3": "Cert Food Nutrition",
+    "name_4": "Food Nutrition Certificate",
+    "name_5": ""
+  },
+  {
+    "course_id": 244,
+    "primary name": "Certificate in Nutrition and Child Care",
+    "name_1": "CNCC",
+    "name_2": "Nutrition & Child Care Certificate",
+    "name_3": "Cert Nutrition Child Care",
+    "name_4": "Child Care Nutrition Certificate",
+    "name_5": "Nutrition Child Care Cert"
+  },
+  {
+    "course_id": 245,
+    "primary name": "Certificate in Rural Development",
+    "name_1": "CRD",
+    "name_2": "Rural Development Certificate",
+    "name_3": "Cert Rural Development",
+    "name_4": "Rural Development Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 246,
+    "primary name": "Certificate in Apparel Merchandising",
+    "name_1": "CAPMER",
+    "name_2": "Apparel Merchandising Certificate",
+    "name_3": "Cert Apparel Merchandising",
+    "name_4": "Apparel Merch Certificate",
+    "name_5": ""
+  },
+  {
+    "course_id": 247,
+    "primary name": "Certificate in Early Childhood Special Education Enabling Inclusion- Visual Impairment",
+    "name_1": "CESEIVI",
+    "name_2": "Cert Early Childhood VI",
+    "name_3": "Early Childhood VI Cert",
+    "name_4": "Certificate ECE Visual Impairment",
+    "name_5": "ECE VI Cert"
+  },
+  {
+    "course_id": 248,
+    "primary name": "Certificate in Early Childhood Special Education Enabling Inclusion-Hearing Impairment",
+    "name_1": "CESEIHI",
+    "name_2": "Cert Early Childhood HI",
+    "name_3": "Early Childhood HI Cert",
+    "name_4": "Certificate ECE Hearing Impairment",
+    "name_5": "ECE HI Cert"
+  },
+  {
+    "course_id": 249,
+    "primary name": "Certificate in Early Childhood Special Education Enabling Inclusion Intellectual Disability",
+    "name_1": "CESEIID",
+    "name_2": "Cert Early Childhood ID",
+    "name_3": "Early Childhood ID Cert",
+    "name_4": "Certificate ECE Intellectual Disability",
+    "name_5": "ECE ID Cert"
+  },
+  {
+    "course_id": 250,
+    "primary name": "Certificate in Event Management",
+    "name_1": "CEVMT",
+    "name_2": "Event Management Certificate",
+    "name_3": "Cert Event Management",
+    "name_4": "Events Management Certificate",
+    "name_5": ""
+  },
+  {
+    "course_id": 251,
+    "primary name": "Certificate in Professional Development of Teachers",
+    "name_1": "CPDT",
+    "name_2": "Teachers Development Cert",
+    "name_3": "Cert Professional Development",
+    "name_4": "Certificate Teacher PD",
+    "name_5": "Teacher Professional Development"
+  },
+  {
+    "course_id": 252,
+    "primary name": "Certificate in Guidance",
+    "name_1": "CIG",
+    "name_2": "Guidance Certificate",
+    "name_3": "Cert Guidance",
+    "name_4": "Guidance Counselling Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 253,
+    "primary name": "Certificate in Information Technology",
+    "name_1": "CIT",
+    "name_2": "Information Tech Cert",
+    "name_3": "Cert IT",
+    "name_4": "IT Certificate",
+    "name_5": "Computer IT Cert"
+  },
+  {
+    "course_id": 254,
+    "primary name": "Certificate in Teaching of English as a Second Language",
+    "name_1": "CTE",
+    "name_2": "English Teaching Cert",
+    "name_3": "Cert TESL",
+    "name_4": "Teaching ESL Certificate",
+    "name_5": "ESL Teaching Cert"
+  },
+  {
+    "course_id": 255,
+    "primary name": "Certificate in Functional English",
+    "name_1": "CFE",
+    "name_2": "Functional English Cert",
+    "name_3": "Cert Functional English",
+    "name_4": "English Functional Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 256,
+    "primary name": "Certificate in Urdu Language",
+    "name_1": "CUL",
+    "name_2": "Urdu Language Cert",
+    "name_3": "Cert Urdu Language",
+    "name_4": "Urdu Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 257,
+    "primary name": "Certificate in Sanskrit Sambhshan",
+    "name_1": "SSBC",
+    "name_2": "Sanskrit Sambhshan Cert",
+    "name_3": "Cert Sanskrit Sambhshan",
+    "name_4": "Sanskrit Conversation Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 258,
+    "primary name": "Certificate in Vedic Ganit",
+    "name_1": "CVG",
+    "name_2": "Vedic Ganit Cert",
+    "name_3": "Cert Vedic Maths",
+    "name_4": "Vedic Mathematics Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 259,
+    "primary name": "Certificate in Bhartiya Kaalgarna",
+    "name_1": "CBKG",
+    "name_2": "Bhartiya Kaalgarna Cert",
+    "name_3": "Cert Indian Calendric",
+    "name_4": "Indian Calendric System Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 260,
+    "primary name": "Certificate in Human Rights",
+    "name_1": "CHR",
+    "name_2": "Human Rights Cert",
+    "name_3": "Cert Human Rights",
+    "name_4": "Human Rights Studies Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 261,
+    "primary name": "Certificate in Consumer Protection",
+    "name_1": "CCP",
+    "name_2": "Consumer Protection Cert",
+    "name_3": "Cert Consumer Protection",
+    "name_4": "Consumer Rights Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 262,
+    "primary name": "Certificate in Cooperation, Cooperative Law & Business Laws",
+    "name_1": "CCLBL",
+    "name_2": "Cooperation Law Cert",
+    "name_3": "Cert Co-op Law",
+    "name_4": "Cooperative & Business Law Cert",
+    "name_5": "Business Laws Cert"
+  },
+  {
+    "course_id": 263,
+    "primary name": "Certificate in Anti Human Trafficking",
+    "name_1": "CAHT",
+    "name_2": "Anti-Human Trafficking Cert",
+    "name_3": "Cert Anti Trafficking",
+    "name_4": "Human Trafficking Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 264,
+    "primary name": "Certificate in International Humanitarian Law",
+    "name_1": "CIHL",
+    "name_2": "International Humanitarian Law Cert",
+    "name_3": "Cert IHL",
+    "name_4": "Humanitarian Law Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 265,
+    "primary name": "Certificate Programme in NGO Management",
+    "name_1": "CNM",
+    "name_2": "NGO Management Cert",
+    "name_3": "Cert NGO Management",
+    "name_4": "NGO Operations Cert",
+    "name_5": "Non-Governmental Org Mgmt"
+  },
+  {
+    "course_id": 266,
+    "primary name": "Certificate in Business Skills",
+    "name_1": "CBS",
+    "name_2": "Business Skills Cert",
+    "name_3": "Cert Business Skills",
+    "name_4": "Business Acumen Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 267,
+    "primary name": "Certificate in Communication & IT Skills",
+    "name_1": "CCITSK",
+    "name_2": "Communication & IT Cert",
+    "name_3": "Cert Comm & IT Skills",
+    "name_4": "IT & Communication Skills Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 268,
+    "primary name": "Advanced Certificate in Information Security",
+    "name_1": "ACISE",
+    "name_2": "Advanced Cert Info Security",
+    "name_3": "Adv Cert Information Security",
+    "name_4": "Advanced Certificate Cyber Security",
+    "name_5": "Adv Cert Cyber Security"
+  },
+  {
+    "course_id": 269,
+    "primary name": "Certificate in Fashion Design",
+    "name_1": "CFDE",
+    "name_2": "Fashion Design Cert",
+    "name_3": "Cert Fashion Design",
+    "name_4": "Fashion Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 270,
+    "primary name": "Certificate in Tourism Studies",
+    "name_1": "CTS",
+    "name_2": "Tourism Studies Cert",
+    "name_3": "Cert Tourism",
+    "name_4": "Tourism Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 271,
+    "primary name": "Certificate Programme on Laboratory Techniques",
+    "name_1": "CPLT",
+    "name_2": "Laboratory Techniques Cert",
+    "name_3": "Cert Lab Techniques",
+    "name_4": "Lab Techniques Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 272,
+    "primary name": "Certificate Programme in Teaching of Primary School Mathematics",
+    "name_1": "CTPM",
+    "name_2": "Primary Maths Teaching Cert",
+    "name_3": "Cert Primary Maths Teaching",
+    "name_4": "Teaching Primary Mathematics Cert",
+    "name_5": "Primary School Maths Teaching Cert"
+  },
+  {
+    "course_id": 273,
+    "primary name": "Certificate in HIV and Family Education",
+    "name_1": "CAFE",
+    "name_2": "HIV & Family Education Cert",
+    "name_3": "Cert HIV Education",
+    "name_4": "Family Education Cert",
+    "name_5": "HIV Education Cert"
+  },
+  {
+    "course_id": 274,
+    "primary name": "Certificate in Social Work and Criminal Justice System",
+    "name_1": "CSWCJS",
+    "name_2": "Social Work & Criminal Justice Cert",
+    "name_3": "Cert Social Work Criminal Justice",
+    "name_4": "Criminal Justice Social Work Cert",
+    "name_5": "Social Work & Criminal Justice"
+  },
+  {
+    "course_id": 275,
+    "primary name": "Certificate in Tribal Studies",
+    "name_1": "CTRBS",
+    "name_2": "Tribal Studies Cert",
+    "name_3": "Cert Tribal Studies",
+    "name_4": "Tribal Affairs Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 276,
+    "primary name": "Certificate in Sericulture",
+    "name_1": "CIS",
+    "name_2": "Sericulture Cert",
+    "name_3": "Cert Sericulture",
+    "name_4": "Silk Farming Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 277,
+    "primary name": "Certificate in Organic Farming",
+    "name_1": "COF",
+    "name_2": "Organic Farming Cert",
+    "name_3": "Cert Organic Farming",
+    "name_4": "Organic Agriculture Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 278,
+    "primary name": "Certificate in Water Harvesting & Management",
+    "name_1": "CWHM",
+    "name_2": "Water Harvesting Cert",
+    "name_3": "Cert Water Management",
+    "name_4": "Water Management Cert",
+    "name_5": "Water Harvesting & Management Cert"
+  },
+  {
+    "course_id": 279,
+    "primary name": "Certificate in Poultry Farming",
+    "name_1": "CPF",
+    "name_2": "Poultry Farming Cert",
+    "name_3": "Cert Poultry Farming",
+    "name_4": "Poultry Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 280,
+    "primary name": "Certificate in Beekeeping",
+    "name_1": "CIB",
+    "name_2": "Beekeeping Cert",
+    "name_3": "Cert Beekeeping",
+    "name_4": "Apiculture Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 281,
+    "primary name": "Certificate in Arabic Language",
+    "name_1": "CAL",
+    "name_2": "Arabic Language Cert",
+    "name_3": "Cert Arabic Language",
+    "name_4": "Arabic Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 282,
+    "primary name": "Certificate in French Language",
+    "name_1": "CFL",
+    "name_2": "French Language Cert",
+    "name_3": "Cert French Language",
+    "name_4": "French Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 283,
+    "primary name": "Certificate in Russian Language",
+    "name_1": "CRUL",
+    "name_2": "Russian Language Cert",
+    "name_3": "Cert Russian Language",
+    "name_4": "Russian Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 284,
+    "primary name": "Certificate in Japanese Language",
+    "name_1": "CJL",
+    "name_2": "Japanese Language Cert",
+    "name_3": "Cert Japanese Language",
+    "name_4": "Japanese Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 285,
+    "primary name": "Certificate in Korean Language & Culture",
+    "name_1": "CKLC",
+    "name_2": "Korean Language & Culture Cert",
+    "name_3": "Cert Korean Language",
+    "name_4": "Korean Culture Cert",
+    "name_5": "Korean Language Cert"
+  },
+  {
+    "course_id": 286,
+    "primary name": "Certificate in Spanish Language & Culture",
+    "name_1": "CSLC",
+    "name_2": "Spanish Language & Culture Cert",
+    "name_3": "Cert Spanish Language",
+    "name_4": "Spanish Culture Cert",
+    "name_5": "Spanish Language Cert"
+  },
+  {
+    "course_id": 287,
+    "primary name": "Certificate in German Language",
+    "name_1": "CGL",
+    "name_2": "German Language Cert",
+    "name_3": "Cert German Language",
+    "name_4": "German Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 288,
+    "primary name": "Certificate in Persian Language",
+    "name_1": "CPEL",
+    "name_2": "Persian Language Cert",
+    "name_3": "Cert Persian Language",
+    "name_4": "Persian Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 289,
+    "primary name": "Certificate in First Aid",
+    "name_1": "CFAID",
+    "name_2": "First Aid Cert",
+    "name_3": "Cert First Aid",
+    "name_4": "Emergency First Aid Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 290,
+    "primary name": "Certificate Programme in Yoga",
+    "name_1": "CPY",
+    "name_2": "Yoga Cert",
+    "name_3": "Cert Yoga",
+    "name_4": "Yoga Training Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 291,
+    "primary name": "Certificate in Health Care Waste Management",
+    "name_1": "CHCWM",
+    "name_2": "Healthcare Waste Mgmt Cert",
+    "name_3": "Cert Healthcare Waste Mgmt",
+    "name_4": "Medical Waste Management Cert",
+    "name_5": "Healthcare Waste Cert"
+  },
+  {
+    "course_id": 292,
+    "primary name": "Certificate in Newborn and Infant Nursing",
+    "name_1": "CNIN",
+    "name_2": "Newborn Nursing Cert",
+    "name_3": "Cert Infant Nursing",
+    "name_4": "Infant Nursing Cert",
+    "name_5": "Neonatal Nursing Cert"
+  },
+  {
+    "course_id": 293,
+    "primary name": "Certificate in Maternal and Child Health Nursing",
+    "name_1": "CMCHN",
+    "name_2": "Maternal Child Health Nursing Cert",
+    "name_3": "Cert MCH Nursing",
+    "name_4": "Child Health Nursing Cert",
+    "name_5": "Maternal Nursing Cert"
+  },
+  {
+    "course_id": 294,
+    "primary name": "Certificate in Home Based Health Care",
+    "name_1": "CHBHC",
+    "name_2": "Home Based Health Care Cert",
+    "name_3": "Cert Home Health Care",
+    "name_4": "Home Health Care Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 295,
+    "primary name": "Certificate in General Duty Assistance",
+    "name_1": "CGDA",
+    "name_2": "General Duty Assistance Cert",
+    "name_3": "Cert GDA",
+    "name_4": "GDA Cert",
+    "name_5": "General Duty Assistant Cert"
+  },
+  {
+    "course_id": 296,
+    "primary name": "Certificate in Geriatric Care Assistance",
+    "name_1": "CGCA",
+    "name_2": "Geriatric Care Cert",
+    "name_3": "Cert Geriatric Care",
+    "name_4": "Elderly Care Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 297,
+    "primary name": "Certificate in Phlebotomy Assistance",
+    "name_1": "CPHA",
+    "name_2": "Phlebotomy Cert",
+    "name_3": "Cert Phlebotomy",
+    "name_4": "Phlebotomy Assistant Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 298,
+    "primary name": "Certificate in Home Health Assistance",
+    "name_1": "CHHA",
+    "name_2": "Home Health Assistance Cert",
+    "name_3": "Cert Home Health",
+    "name_4": "Home Health Aide Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 299,
+    "primary name": "Certificate in Community Health",
+    "name_1": "CCH",
+    "name_2": "Community Health Cert",
+    "name_3": "Cert Community Health",
+    "name_4": "Public Health Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 300,
+    "primary name": "Certificate in Visual Arts – Painting",
+    "name_1": "CVAP",
+    "name_2": "Visual Arts Painting Cert",
+    "name_3": "Cert Painting",
+    "name_4": "Painting Arts Cert",
+    "name_5": "Visual Arts Cert"
+  },
+  {
+    "course_id": 301,
+    "primary name": "Certificate in Visual Arts – Applied Art",
+    "name_1": "CVAA",
+    "name_2": "Visual Arts Applied Art Cert",
+    "name_3": "Cert Applied Art",
+    "name_4": "Applied Art Certificate",
+    "name_5": "Visual Arts Cert"
+  },
+  {
+    "course_id": 302,
+    "primary name": "Certificate in Performing Arts – Theatre Arts",
+    "name_1": "CPATHA",
+    "name_2": "Theatre Arts Cert",
+    "name_3": "Cert Theatre Arts",
+    "name_4": "Performing Arts Theatre Cert",
+    "name_5": "Theatre Cert"
+  },
+  {
+    "course_id": 303,
+    "primary name": "Certificate in Performing Arts Hindustani Music",
+    "name_1": "CPAHM",
+    "name_2": "Hindustani Music Cert",
+    "name_3": "Cert Hindustani Music",
+    "name_4": "Performing Arts Hindustani Music Cert",
+    "name_5": "Hindustani Music Cert"
+  },
+  {
+    "course_id": 304,
+    "primary name": "Certificate in Performing Arts Karnatak Music",
+    "name_1": "CPAKM",
+    "name_2": "Karnatak Music Cert",
+    "name_3": "Cert Karnatak Music",
+    "name_4": "Performing Arts Karnatak Music Cert",
+    "name_5": "Karnatak Music Cert"
+  },
+  {
+    "course_id": 305,
+    "primary name": "Certificate in Performing Arts Bharatanatyam",
+    "name_1": "CPABN",
+    "name_2": "Bharatanatyam Cert",
+    "name_3": "Certificate in Bharatanatyam",
+    "name_4": "Bharatanatyam Certificate",
+    "name_5": "Bharatanatyam Dance Certificate"
+  },
+  {
+    "course_id": 306,
+    "primary name": "Certificate in Energy Technology and Management",
+    "name_1": "CETM",
+    "name_2": "Energy Technology Cert",
+    "name_3": "Cert Energy Management",
+    "name_4": "Energy Tech & Management Cert",
+    "name_5": "Energy Management Cert"
+  },
+  {
+    "course_id": 307,
+    "primary name": "Certificate of Competency in Power Distribution (Electrical Technicians)",
+    "name_1": "CCPD",
+    "name_2": "Power Distribution Cert",
+    "name_3": "Cert Power Distribution",
+    "name_4": "Electrical Technicians Power Cert",
+    "name_5": "Power Distribution Competency Cert"
+  },
+  {
+    "course_id": 308,
+    "primary name": "Certificate in Solid Wastes Treatment Techniques",
+    "name_1": "CSWATT",
+    "name_2": "Solid Waste Treatment Cert",
+    "name_3": "Cert Waste Treatment",
+    "name_4": "Waste Treatment Techniques Cert",
+    "name_5": "Solid Waste Cert"
+  },
+  {
+    "course_id": 309,
+    "primary name": "Certificate in Condition Monitoring",
+    "name_1": "CCOMO",
+    "name_2": "Condition Monitoring Cert",
+    "name_3": "Cert Condition Monitoring",
+    "name_4": "Equipment Condition Monitoring Cert",
+    "name_5": "Monitoring Cert"
+  },
+  {
+    "course_id": 310,
+    "primary name": "Certificate in Smart City Development and Management",
+    "name_1": "CSCDM",
+    "name_2": "Smart City Development Cert",
+    "name_3": "Cert Smart City Management",
+    "name_4": "Smart City Management Cert",
+    "name_5": "Smart City Cert"
+  },
+  {
+    "course_id": 311,
+    "primary name": "Certificate Programme in Value Education",
+    "name_1": "CPVE",
+    "name_2": "Value Education Cert",
+    "name_3": "Cert Value Education",
+    "name_4": "Value Education Program Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 312,
+    "primary name": "Certificate in Community Radio",
+    "name_1": "CCR",
+    "name_2": "Community Radio Cert",
+    "name_3": "Cert Community Radio",
+    "name_4": "Radio Broadcasting Cert",
+    "name_5": "Community Radio Program"
+  },
+  {
+    "course_id": 313,
+    "primary name": "Certificate in Mobile Application Development",
+    "name_1": "CMAD",
+    "name_2": "Mobile App Development Cert",
+    "name_3": "Cert Mobile App Dev",
+    "name_4": "Mobile Application Cert",
+    "name_5": "App Development Cert"
+  },
+  {
+    "course_id": 314,
+    "primary name": "Certificate in Solid Waste Management",
+    "name_1": "CSWM",
+    "name_2": "Solid Waste Management Cert",
+    "name_3": "Cert Solid Waste Mgmt",
+    "name_4": "Waste Management Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 315,
+    "primary name": "Certificate in Adolescent Health and Counseling",
+    "name_1": "CAHCC",
+    "name_2": "Adolescent Health Cert",
+    "name_3": "Cert Adolescent Counseling",
+    "name_4": "Adolescent Health & Counseling Cert",
+    "name_5": "Adolescent Counseling Cert"
+  },
+  {
+    "course_id": 316,
+    "primary name": "Certificate in Gender, Agriculture and Sustainable Development",
+    "name_1": "CGAS",
+    "name_2": "Gender Agriculture Dev Cert",
+    "name_3": "Cert Gender Agriculture",
+    "name_4": "Gender & Sustainable Development Cert",
+    "name_5": "Gender Agriculture Cert"
+  },
+  {
+    "course_id": 317,
+    "primary name": "Certificate in Gender in Law",
+    "name_1": "CGSL",
+    "name_2": "Gender in Law Cert",
+    "name_3": "Cert Gender Law",
+    "name_4": "Gender Law Cert",
+    "name_5": "Law Gender Cert"
+  },
+  {
+    "course_id": 318,
+    "primary name": "Certificate in Gender Science",
+    "name_1": "CGSCI",
+    "name_2": "Gender Science Cert",
+    "name_3": "Cert Gender Science",
+    "name_4": "Gender Studies Science Cert",
+    "name_5": ""
+  },
+  {
+    "course_id": 319,
+    "primary name": "Awareness Programme on Dairy Farming",
+    "name_1": "APDF",
+    "name_2": "Dairy Farming Awareness",
+    "name_3": "Awareness Dairy Farming",
+    "name_4": "Dairy Farming Program",
+    "name_5": ""
+  },
+  {
+    "course_id": 320,
+    "primary name": "Awareness-Cum-Training Package for Parents of Children with Disability-Visual Impairment",
+    "name_1": "NCD-102",
+    "name_2": "Visual Impairment Parents Training",
+    "name_3": "Training Parents Disability VI",
+    "name_4": "Disability Children Visual Impairment",
+    "name_5": "Parents Disability VI Training"
+  },
+  {
+    "course_id": 321,
+    "primary name": "Appreciation Course on Environment",
+    "name_1": "ACE",
+    "name_2": "Environment Appreciation Course",
+    "name_3": "Appreciation Environment",
+    "name_4": "Course on Environment Appreciation",
+    "name_5": ""
+  },
+  {
+    "course_id": 322,
+    "primary name": "Appreciation Course on Population and Sustainable Development",
+    "name_1": "ACPSD",
+    "name_2": "Population & Sustainable Dev Appreciation",
+    "name_3": "Appreciation Population Dev",
+    "name_4": "Course Population Sustainable Development",
+    "name_5": "Population & Sustainable Dev Course"
+  }
+]
