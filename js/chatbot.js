@@ -175,10 +175,17 @@ document.addEventListener('DOMContentLoaded', () => {
   const minimizeBtn = document.getElementById('minimize-btn');
 
   if (minimizeBtn && chatContainer) {
-    minimizeBtn.addEventListener('click', () => {
-      chatContainer.classList.toggle('minimized');
-      minimizeBtn.innerHTML = chatContainer.classList.contains('minimized') ? '&#x2b;' : '&#x2012;';
-    });
+    minimizeBtn.addEventListener('click', (e) => {
+  e.stopPropagation(); // prevent double triggering
+  chatContainer.classList.add('minimized');
+});
+
+chatContainer.addEventListener('click', () => {
+  if (chatContainer.classList.contains('minimized')) {
+    chatContainer.classList.remove('minimized');
+  }
+});
+
   }
 });
 
