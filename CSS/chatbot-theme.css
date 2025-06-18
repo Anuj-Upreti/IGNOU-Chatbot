@@ -1,7 +1,23 @@
+/* === Chatbot Theme Variables === */
 :root {
+  /* Background color for bot messages */
   --bot-bg: #fbeaea;
+
+  /* Background color for user messages */
   --user-bg: #cce0ff;
+
+  /* Deep red used across chatbot borders and headers */
   --primary-color: #8B0000;
+
+  /* Default border radius used in chatbot UI */
   --chat-radius: 16px;
+
+  /* Main font used *within chatbot only* */
   --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+/*
+⚠️ NOTE:
+These are only *variables*, so they don’t affect global styles directly.
+Apply them *inside chatbot containers* in other modular files.
+*/

@@ -1,16 +1,20 @@
+/* === Chatbot Lead Form Overlay Styles === */
+/* Overlay that dims the page and centers the form */
+
 #lead-form-overlay {
   position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: rgba(0,0,0,0.6);
-  display: none;
+  background-color: rgba(0, 0, 0, 0.6);   /* Dark transparent overlay */
+  display: none;                          /* Hidden by default */
   align-items: center;
   justify-content: center;
   z-index: 10000;
 }
 
+/* === Chatbot Lead Form Iframe Box === */
 #lead-form-iframe {
   width: 90%;
   max-width: 500px;
@@ -19,3 +23,7 @@
   border-radius: 8px;
   background-color: #fff;
 }
+
+/*
+💡 Tip: Only affects chatbot form iframe. Doesn't affect global <iframe> styles.
+*/
