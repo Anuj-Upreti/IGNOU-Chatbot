@@ -11,9 +11,9 @@ let dataReady = false;
 async function loadCourseData() {
   try {
     const [namesResponse, eligibilityResponse, feeResponse] = await Promise.all([
-      fetch('.../json/course_name.json'),
-      fetch('.../json/eligibility.json'),
-      fetch('.../json/fee_data.json')
+      fetch('../../json/course_name.json'),
+      fetch('../../json/eligibility.json'),
+      fetch('../../json/fee_data.json')
     ]);
     courseNames = await namesResponse.json();
     eligibilityData = await eligibilityResponse.json();
