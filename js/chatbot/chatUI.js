@@ -1,4 +1,4 @@
-// js/chatUI.js
+// js/chatbot/chatUI.js
 function initChatUI() {
   const chatContainer = document.getElementById('chat-container');
   const minimizeBtn = document.getElementById('minimize-btn');

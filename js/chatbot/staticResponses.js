@@ -1,4 +1,4 @@
-// js/staticResponses.js
+// js/chatbot/staticResponses.js
 export const staticResponses = {
   hello: "Hello, what can I help you with?",
   ignou_what: "IGNOU is the largest open university in the world offering online and distance courses.",

@@ -1,4 +1,4 @@
-// js/interactionState.js
+// js/chatbot/interactionState.js
 let currentCourseId = 0;
 let currentCourseName = "IGNOU course";
 let pendingIntent = null;

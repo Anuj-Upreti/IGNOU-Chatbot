@@ -1,4 +1,4 @@
-// js/responseHandler.js
+// js/chatbot/responseHandler.js
 import { incrementReplyCount, shouldTriggerLeadForm } from './stateTracker.js';
 
 function displayBotMessage(message) {

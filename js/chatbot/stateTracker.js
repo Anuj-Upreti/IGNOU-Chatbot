@@ -1,4 +1,4 @@
-// js/stateTracker.js
+// js/chatbot/stateTracker.js
 let botReplyCount = 0;
 const MAX_REPLIES_BEFORE_FORM = 3;
 
