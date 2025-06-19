@@ -1,6 +1,6 @@
 // js/urlDetector.js
 
-import { handleCourseQuery } from './courseLogic.js';
+import { handleCourseQuery } from '../courseLogic/courseLogic.js';
 
 export function getCourseIdFromURL() {
   const path = window.location.pathname.toLowerCase();
