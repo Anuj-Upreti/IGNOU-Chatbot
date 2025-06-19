@@ -1,5 +1,5 @@
 // js/chatbot/dynamicResponses.js
-import { generateCourseResponse } from './courseLogic.js';
+import { generateCourseResponse } from '../courseLogic/courseLogic.js';
 
 export function getDynamicResponse(intent, courseName, courseId) {
   switch (intent) {
