@@ -3,7 +3,7 @@ import { getDynamicResponse } from './dynamicResponses.js';
 import { detectIntent } from '../functions/intentMatcher.js';
 import { handleCourseQuery, generateCourseResponse, getPrimaryCourseName, loadCourseData, isDataReady } from '../courseLogic/courseLogic.js';
 import { displayUserMessage } from '../functions/functions.js';
-import { displayBotMessage } from '../script/responseHandler.js';
+import { displayBotMessage } from './responseHandler.js';
 import { getCourseIdFromURL } from '../script/urlDetector.js';
 import { initChatUI } from './chatUI.js'; // ✅ Import the function
 

@@ -1,4 +1,4 @@
-// js/courseLogic.js
+// js/courseLogic/courseLogic.js
 
 // Declare variables to hold the JSON data
 let courseNames = [];

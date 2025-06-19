@@ -1,4 +1,4 @@
-// js/formListener.js
+// js/options/formListener.js
 function initFormListener() {
   window.addEventListener('message', (e) => {
     if (e.data === 'formSubmitted') {

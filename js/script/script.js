@@ -1,7 +1,7 @@
 // js/script.js
 
-import { handleUserInput as chatbotHandleUserInput } from './chatbot.js';
-import { simulateTyping, showOptions } from './functions.js';
+import { handleUserInput as chatbotHandleUserInput } from '../chatbot/chatbot.js';
+import { simulateTyping, showOptions } from '../function/functions.js';
 
 window.onload = () => {
   const inputField = document.getElementById('user-input');

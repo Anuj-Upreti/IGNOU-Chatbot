@@ -1,6 +1,6 @@
-// js/renderContent.js
+// js/script/renderContent.js
 
-import { pageContent } from './pageContent.js';
+import { pageContent } from '../options/pageContent.js';
 
 const contentDiv = document.getElementById('content');
 

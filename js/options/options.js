@@ -1,4 +1,4 @@
-// js/options.js
+// js/option/options.js
 
 export const chatbotOptions = [
   "Result",

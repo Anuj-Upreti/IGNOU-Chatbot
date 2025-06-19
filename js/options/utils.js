@@ -1,4 +1,4 @@
-// js/utils.js
+// js/options/utils.js
 
 // Get today's date nicely formatted
 export function getTodayDate() {

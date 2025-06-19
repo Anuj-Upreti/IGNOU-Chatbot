@@ -1,4 +1,4 @@
-// js/pageContent.js
+// js/options/pageContent.js
 
 export const pageContent = [
   {

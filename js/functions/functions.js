@@ -1,7 +1,7 @@
-// js/functions.js
+// js/functions/functions.js
 
-import { chatbotOptions } from './options.js';
-import { handleUserInput as chatbotHandleUserInput } from './chatbot.js';
+import { chatbotOptions } from '../options/options.js';
+import { handleUserInput as chatbotHandleUserInput } from '../chatbot/chatbot.js';
 
 function simulateTyping(text, callback) {
     const chatBox = document.getElementById('chat-box');
