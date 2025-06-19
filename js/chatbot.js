@@ -5,6 +5,9 @@ import { handleCourseQuery, generateCourseResponse, getPrimaryCourseName, loadCo
 import { displayUserMessage } from './functions.js';
 import { displayBotMessage } from './responseHandler.js';
 import { getCourseIdFromURL } from './urlDetector.js';
+import { initChatUI } from './chatUI.js'; // ✅ Import the function
+
+initChatUI(); // ✅ This activates the minimize/maximize listeners?
 
 let courseId = 0;
 let courseName = "IGNOU course";
