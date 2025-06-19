@@ -1,4 +1,4 @@
-// js/script.js
+// js/script/script.js
 
 import { handleUserInput as chatbotHandleUserInput } from '../chatbot/chatbot.js';
 import { simulateTyping, showOptions } from '../functions/functions.js';
